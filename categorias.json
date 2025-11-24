@@ -1,0 +1,802 @@
+[
+  {
+    "_id": "cat_fywrh23ssi",
+    "nombre": "Electrónica",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica",
+    "activa": true,
+    "fecha_creacion": "2019-01-14"
+  },
+  {
+    "_id": "cat_a7pf17yp91",
+    "nombre": "Moda",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda",
+    "activa": true,
+    "fecha_creacion": "2023-07-25"
+  },
+  {
+    "_id": "cat_wblre8nf3e",
+    "nombre": "Hogar y Cocina",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina",
+    "activa": true,
+    "fecha_creacion": "2019-03-22"
+  },
+  {
+    "_id": "cat_qtmrgb5i2h",
+    "nombre": "Deportes",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes",
+    "activa": true,
+    "fecha_creacion": "2025-07-06"
+  },
+  {
+    "_id": "cat_9cuunmftk8",
+    "nombre": "Belleza",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza",
+    "activa": true,
+    "fecha_creacion": "2024-08-15"
+  },
+  {
+    "_id": "cat_n9nadz9rrt",
+    "nombre": "Libros",
+    "descripcion": "Literatura y textos académicos",
+    "slug": "libros",
+    "activa": true,
+    "fecha_creacion": "2024-11-08"
+  },
+  {
+    "_id": "cat_hvuwggm7mv",
+    "nombre": "Juguetes",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes",
+    "activa": true,
+    "fecha_creacion": "2022-06-09"
+  },
+  {
+    "_id": "cat_ig7gpfbsxi",
+    "nombre": "Computación",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación",
+    "activa": true,
+    "fecha_creacion": "2020-10-30"
+  },
+  {
+    "_id": "cat_8v5rni5fc2",
+    "nombre": "Alimentos",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos",
+    "activa": true,
+    "fecha_creacion": "2024-06-02"
+  },
+  {
+    "_id": "cat_ck4xbio5xf",
+    "nombre": "Mascotas",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas",
+    "activa": true,
+    "fecha_creacion": "2020-09-11"
+  },
+  {
+    "_id": "cat_bfx6r86nfn",
+    "nombre": "Computación - Outlet",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-r6r",
+    "activa": true,
+    "fecha_creacion": "2023-02-04"
+  },
+  {
+    "_id": "cat_1ay8avx4vj",
+    "nombre": "Hogar y Cocina - Outlet",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-13e",
+    "activa": true,
+    "fecha_creacion": "2024-06-13"
+  },
+  {
+    "_id": "cat_gx2cekk7o5",
+    "nombre": "Moda - Eco",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda-fgn",
+    "activa": true,
+    "fecha_creacion": "2020-07-08"
+  },
+  {
+    "_id": "cat_z512aqc1gz",
+    "nombre": "Mascotas - Tradicional",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-8v0",
+    "activa": true,
+    "fecha_creacion": "2021-10-01"
+  },
+  {
+    "_id": "cat_0932rutcvl",
+    "nombre": "Belleza - Eco",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-lzs",
+    "activa": true,
+    "fecha_creacion": "2020-09-18"
+  },
+  {
+    "_id": "cat_39ml9dcc31",
+    "nombre": "Mascotas - Outlet",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-s8y",
+    "activa": true,
+    "fecha_creacion": "2025-04-12"
+  },
+  {
+    "_id": "cat_s5caxbjvop",
+    "nombre": "Alimentos - Premium",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-oli",
+    "activa": true,
+    "fecha_creacion": "2020-12-15"
+  },
+  {
+    "_id": "cat_rrz62w1y4z",
+    "nombre": "Electrónica - Tradicional",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-i7n",
+    "activa": true,
+    "fecha_creacion": "2025-11-17"
+  },
+  {
+    "_id": "cat_fh5zdgswn0",
+    "nombre": "Electrónica - Accesorios",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-9fp",
+    "activa": true,
+    "fecha_creacion": "2024-03-03"
+  },
+  {
+    "_id": "cat_yj8lj4fyhv",
+    "nombre": "Mascotas - Tradicional",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-zfo",
+    "activa": true,
+    "fecha_creacion": "2025-03-02"
+  },
+  {
+    "_id": "cat_xyywd9hmw5",
+    "nombre": "Mascotas - Tradicional",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-asb",
+    "activa": true,
+    "fecha_creacion": "2025-01-15"
+  },
+  {
+    "_id": "cat_97f9gnafu6",
+    "nombre": "Deportes - Outlet",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-tbg",
+    "activa": true,
+    "fecha_creacion": "2022-09-27"
+  },
+  {
+    "_id": "cat_u3vq2xcp39",
+    "nombre": "Deportes - Premium",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-frs",
+    "activa": true,
+    "fecha_creacion": "2025-07-05"
+  },
+  {
+    "_id": "cat_yyffkxa3yg",
+    "nombre": "Computación - Accesorios",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-ygj",
+    "activa": true,
+    "fecha_creacion": "2020-06-01"
+  },
+  {
+    "_id": "cat_ryxfd7toy0",
+    "nombre": "Mascotas - Eco",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-plh",
+    "activa": true,
+    "fecha_creacion": "2023-12-13"
+  },
+  {
+    "_id": "cat_twgzrf436y",
+    "nombre": "Mascotas - Premium",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-yxw",
+    "activa": true,
+    "fecha_creacion": "2021-04-02"
+  },
+  {
+    "_id": "cat_o772amwv1x",
+    "nombre": "Belleza - Premium",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-g9s",
+    "activa": true,
+    "fecha_creacion": "2022-07-16"
+  },
+  {
+    "_id": "cat_t105ncogt3",
+    "nombre": "Alimentos - Tradicional",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-u96",
+    "activa": true,
+    "fecha_creacion": "2020-04-17"
+  },
+  {
+    "_id": "cat_0htn9kfxwq",
+    "nombre": "Deportes - Outlet",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-1xj",
+    "activa": true,
+    "fecha_creacion": "2024-03-28"
+  },
+  {
+    "_id": "cat_rjtqb3v200",
+    "nombre": "Deportes - Premium",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-noa",
+    "activa": true,
+    "fecha_creacion": "2023-04-29"
+  },
+  {
+    "_id": "cat_3qr5t1ya6e",
+    "nombre": "Mascotas - Tradicional",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-qow",
+    "activa": true,
+    "fecha_creacion": "2020-10-16"
+  },
+  {
+    "_id": "cat_1nj227h46c",
+    "nombre": "Belleza - Tradicional",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-ie1",
+    "activa": true,
+    "fecha_creacion": "2021-03-02"
+  },
+  {
+    "_id": "cat_khhrzhymxn",
+    "nombre": "Mascotas - Premium",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-4kj",
+    "activa": true,
+    "fecha_creacion": "2020-09-04"
+  },
+  {
+    "_id": "cat_1vs9izrttp",
+    "nombre": "Moda - Accesorios",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda-wnm",
+    "activa": true,
+    "fecha_creacion": "2025-02-14"
+  },
+  {
+    "_id": "cat_vpi464160m",
+    "nombre": "Alimentos - Premium",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-f2l",
+    "activa": true,
+    "fecha_creacion": "2022-06-01"
+  },
+  {
+    "_id": "cat_qhafftgxwe",
+    "nombre": "Electrónica - Accesorios",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-hzt",
+    "activa": true,
+    "fecha_creacion": "2022-09-20"
+  },
+  {
+    "_id": "cat_vdhu3sxakl",
+    "nombre": "Deportes - Tradicional",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-5pu",
+    "activa": false,
+    "fecha_creacion": "2024-07-13"
+  },
+  {
+    "_id": "cat_rbx2jqj3kn",
+    "nombre": "Mascotas - Outlet",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-xo2",
+    "activa": true,
+    "fecha_creacion": "2023-03-22"
+  },
+  {
+    "_id": "cat_dl21flexpi",
+    "nombre": "Mascotas - Tradicional",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-03s",
+    "activa": true,
+    "fecha_creacion": "2025-04-23"
+  },
+  {
+    "_id": "cat_unhrklg6ph",
+    "nombre": "Deportes - Accesorios",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-hf8",
+    "activa": false,
+    "fecha_creacion": "2022-08-02"
+  },
+  {
+    "_id": "cat_im4gz6gnfn",
+    "nombre": "Computación - Premium",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-k1z",
+    "activa": true,
+    "fecha_creacion": "2020-11-17"
+  },
+  {
+    "_id": "cat_i9ln9gowjj",
+    "nombre": "Electrónica - Eco",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-1ie",
+    "activa": false,
+    "fecha_creacion": "2022-05-11"
+  },
+  {
+    "_id": "cat_9rzs8xpxke",
+    "nombre": "Juguetes - Outlet",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes-bz1",
+    "activa": true,
+    "fecha_creacion": "2021-03-30"
+  },
+  {
+    "_id": "cat_bweskqzoo0",
+    "nombre": "Computación - Accesorios",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-kao",
+    "activa": true,
+    "fecha_creacion": "2022-11-19"
+  },
+  {
+    "_id": "cat_wlz4em7mw3",
+    "nombre": "Computación - Tradicional",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-2f8",
+    "activa": false,
+    "fecha_creacion": "2023-11-17"
+  },
+  {
+    "_id": "cat_sbblyielzv",
+    "nombre": "Deportes - Premium",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-d7l",
+    "activa": true,
+    "fecha_creacion": "2022-06-06"
+  },
+  {
+    "_id": "cat_n2k7bki31g",
+    "nombre": "Juguetes - Accesorios",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes-w6q",
+    "activa": true,
+    "fecha_creacion": "2022-01-21"
+  },
+  {
+    "_id": "cat_zpbnr6t673",
+    "nombre": "Hogar y Cocina - Accesorios",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-wa1",
+    "activa": true,
+    "fecha_creacion": "2025-11-04"
+  },
+  {
+    "_id": "cat_za5598do95",
+    "nombre": "Hogar y Cocina - Outlet",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-rju",
+    "activa": true,
+    "fecha_creacion": "2022-07-10"
+  },
+  {
+    "_id": "cat_c6foljmtet",
+    "nombre": "Belleza - Accesorios",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-6x5",
+    "activa": true,
+    "fecha_creacion": "2025-04-19"
+  },
+  {
+    "_id": "cat_sitkhulvrp",
+    "nombre": "Belleza - Premium",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-w7j",
+    "activa": true,
+    "fecha_creacion": "2025-12-03"
+  },
+  {
+    "_id": "cat_d0j1ptij5x",
+    "nombre": "Hogar y Cocina - Accesorios",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-4uc",
+    "activa": true,
+    "fecha_creacion": "2021-11-28"
+  },
+  {
+    "_id": "cat_st82ippyyj",
+    "nombre": "Electrónica - Premium",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-pak",
+    "activa": true,
+    "fecha_creacion": "2022-03-17"
+  },
+  {
+    "_id": "cat_7w4rv6cnnm",
+    "nombre": "Belleza - Outlet",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-sjf",
+    "activa": true,
+    "fecha_creacion": "2022-01-30"
+  },
+  {
+    "_id": "cat_m2i1gvzyd8",
+    "nombre": "Moda - Outlet",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda-3ug",
+    "activa": true,
+    "fecha_creacion": "2024-03-23"
+  },
+  {
+    "_id": "cat_qbfgvxqo8m",
+    "nombre": "Belleza - Premium",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-x3d",
+    "activa": true,
+    "fecha_creacion": "2020-06-11"
+  },
+  {
+    "_id": "cat_82mo0j36b1",
+    "nombre": "Moda - Eco",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda-ufs",
+    "activa": true,
+    "fecha_creacion": "2021-02-19"
+  },
+  {
+    "_id": "cat_ox3152oxb2",
+    "nombre": "Computación - Eco",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-jrj",
+    "activa": true,
+    "fecha_creacion": "2024-10-13"
+  },
+  {
+    "_id": "cat_271nm86gn2",
+    "nombre": "Deportes - Tradicional",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-yaw",
+    "activa": true,
+    "fecha_creacion": "2020-10-12"
+  },
+  {
+    "_id": "cat_68q29lij2f",
+    "nombre": "Moda - Eco",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda-0cn",
+    "activa": true,
+    "fecha_creacion": "2025-10-04"
+  },
+  {
+    "_id": "cat_r61f2o88ro",
+    "nombre": "Juguetes - Premium",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes-i3a",
+    "activa": true,
+    "fecha_creacion": "2022-04-10"
+  },
+  {
+    "_id": "cat_mozhdo4365",
+    "nombre": "Electrónica - Accesorios",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-y4i",
+    "activa": true,
+    "fecha_creacion": "2024-04-17"
+  },
+  {
+    "_id": "cat_mnrxate8tv",
+    "nombre": "Juguetes - Tradicional",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes-8q1",
+    "activa": true,
+    "fecha_creacion": "2023-01-10"
+  },
+  {
+    "_id": "cat_jlgb86u3sf",
+    "nombre": "Electrónica - Eco",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-s29",
+    "activa": true,
+    "fecha_creacion": "2020-12-23"
+  },
+  {
+    "_id": "cat_mr2jrw4ixh",
+    "nombre": "Alimentos - Premium",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-2zw",
+    "activa": true,
+    "fecha_creacion": "2021-11-04"
+  },
+  {
+    "_id": "cat_trj7fjbxxi",
+    "nombre": "Electrónica - Premium",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-hnr",
+    "activa": true,
+    "fecha_creacion": "2021-08-14"
+  },
+  {
+    "_id": "cat_xkykmn5v55",
+    "nombre": "Hogar y Cocina - Eco",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-b2i",
+    "activa": true,
+    "fecha_creacion": "2024-07-26"
+  },
+  {
+    "_id": "cat_xlfavu2fyq",
+    "nombre": "Deportes - Eco",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-f8p",
+    "activa": true,
+    "fecha_creacion": "2022-07-22"
+  },
+  {
+    "_id": "cat_t9tmeuslpe",
+    "nombre": "Hogar y Cocina - Accesorios",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-jk3",
+    "activa": true,
+    "fecha_creacion": "2023-09-08"
+  },
+  {
+    "_id": "cat_qwp94m3ixg",
+    "nombre": "Libros - Eco",
+    "descripcion": "Literatura y textos académicos",
+    "slug": "libros-3zr",
+    "activa": true,
+    "fecha_creacion": "2024-03-22"
+  },
+  {
+    "_id": "cat_c5314t9r9c",
+    "nombre": "Hogar y Cocina - Outlet",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-lwi",
+    "activa": true,
+    "fecha_creacion": "2023-08-19"
+  },
+  {
+    "_id": "cat_ktlwg1nq24",
+    "nombre": "Libros - Accesorios",
+    "descripcion": "Literatura y textos académicos",
+    "slug": "libros-biy",
+    "activa": true,
+    "fecha_creacion": "2024-06-15"
+  },
+  {
+    "_id": "cat_wcac6rwey6",
+    "nombre": "Hogar y Cocina - Premium",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-exa",
+    "activa": true,
+    "fecha_creacion": "2023-11-13"
+  },
+  {
+    "_id": "cat_2lww92dgmo",
+    "nombre": "Hogar y Cocina - Eco",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-juq",
+    "activa": true,
+    "fecha_creacion": "2020-06-16"
+  },
+  {
+    "_id": "cat_ibkry4kztn",
+    "nombre": "Juguetes - Eco",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes-6vb",
+    "activa": true,
+    "fecha_creacion": "2022-12-15"
+  },
+  {
+    "_id": "cat_54n4ftp50x",
+    "nombre": "Juguetes - Tradicional",
+    "descripcion": "Juguetes y juegos educativos",
+    "slug": "juguetes-mpd",
+    "activa": true,
+    "fecha_creacion": "2022-03-28"
+  },
+  {
+    "_id": "cat_0e6vqequf9",
+    "nombre": "Hogar y Cocina - Tradicional",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-cc2",
+    "activa": true,
+    "fecha_creacion": "2020-10-20"
+  },
+  {
+    "_id": "cat_nvrlrclp1p",
+    "nombre": "Deportes - Outlet",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-a52",
+    "activa": true,
+    "fecha_creacion": "2024-05-15"
+  },
+  {
+    "_id": "cat_npfw44d2qz",
+    "nombre": "Mascotas - Accesorios",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-782",
+    "activa": true,
+    "fecha_creacion": "2021-05-01"
+  },
+  {
+    "_id": "cat_hyzca9mbqd",
+    "nombre": "Belleza - Tradicional",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-tw7",
+    "activa": true,
+    "fecha_creacion": "2022-05-31"
+  },
+  {
+    "_id": "cat_2vpmw8879e",
+    "nombre": "Belleza - Accesorios",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-97s",
+    "activa": true,
+    "fecha_creacion": "2022-03-14"
+  },
+  {
+    "_id": "cat_2j6fifk2go",
+    "nombre": "Computación - Eco",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-rbu",
+    "activa": true,
+    "fecha_creacion": "2024-08-09"
+  },
+  {
+    "_id": "cat_3qmmis8v1g",
+    "nombre": "Mascotas - Tradicional",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-bbw",
+    "activa": true,
+    "fecha_creacion": "2021-06-12"
+  },
+  {
+    "_id": "cat_x9kjlt9fi6",
+    "nombre": "Electrónica - Tradicional",
+    "descripcion": "Dispositivos electrónicos, audio y wearables",
+    "slug": "electrónica-los",
+    "activa": true,
+    "fecha_creacion": "2024-08-23"
+  },
+  {
+    "_id": "cat_nvk9l6qzoc",
+    "nombre": "Computación - Premium",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-be9",
+    "activa": false,
+    "fecha_creacion": "2025-02-10"
+  },
+  {
+    "_id": "cat_86oo3y3f8d",
+    "nombre": "Mascotas - Premium",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-tvd",
+    "activa": true,
+    "fecha_creacion": "2023-12-19"
+  },
+  {
+    "_id": "cat_hdzp0o7isp",
+    "nombre": "Deportes - Premium",
+    "descripcion": "Equipos y prendas deportivas",
+    "slug": "deportes-fcp",
+    "activa": true,
+    "fecha_creacion": "2020-02-13"
+  },
+  {
+    "_id": "cat_f7er7dvbqj",
+    "nombre": "Alimentos - Premium",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-2ev",
+    "activa": true,
+    "fecha_creacion": "2021-02-12"
+  },
+  {
+    "_id": "cat_4k0qicuprz",
+    "nombre": "Alimentos - Outlet",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-qh4",
+    "activa": true,
+    "fecha_creacion": "2024-01-12"
+  },
+  {
+    "_id": "cat_jrwurb6fvt",
+    "nombre": "Libros - Tradicional",
+    "descripcion": "Literatura y textos académicos",
+    "slug": "libros-los",
+    "activa": true,
+    "fecha_creacion": "2020-12-31"
+  },
+  {
+    "_id": "cat_71ikqw7ad3",
+    "nombre": "Alimentos - Accesorios",
+    "descripcion": "Productos regionales y gourmet",
+    "slug": "alimentos-0od",
+    "activa": true,
+    "fecha_creacion": "2023-11-09"
+  },
+  {
+    "_id": "cat_pu5gcetd9o",
+    "nombre": "Mascotas - Premium",
+    "descripcion": "Accesorios y comida para mascotas",
+    "slug": "mascotas-mmd",
+    "activa": true,
+    "fecha_creacion": "2020-07-17"
+  },
+  {
+    "_id": "cat_bgwme5z4cq",
+    "nombre": "Hogar y Cocina - Premium",
+    "descripcion": "Utensilios, decoración y textiles",
+    "slug": "hogar-y-cocina-ukg",
+    "activa": true,
+    "fecha_creacion": "2021-07-19"
+  },
+  {
+    "_id": "cat_x1qbtdcc7d",
+    "nombre": "Computación - Outlet",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-9f4",
+    "activa": true,
+    "fecha_creacion": "2022-03-06"
+  },
+  {
+    "_id": "cat_t938acsa8k",
+    "nombre": "Libros - Eco",
+    "descripcion": "Literatura y textos académicos",
+    "slug": "libros-8g1",
+    "activa": true,
+    "fecha_creacion": "2020-02-20"
+  },
+  {
+    "_id": "cat_gs116sq6wf",
+    "nombre": "Computación - Eco",
+    "descripcion": "Laptops, periféricos y componentes",
+    "slug": "computación-8wo",
+    "activa": true,
+    "fecha_creacion": "2020-08-01"
+  },
+  {
+    "_id": "cat_idwect7j38",
+    "nombre": "Moda - Accesorios",
+    "descripcion": "Ropa, calzado y artesanías colombianas",
+    "slug": "moda-e4m",
+    "activa": true,
+    "fecha_creacion": "2022-01-11"
+  },
+  {
+    "_id": "cat_ddfun4f62n",
+    "nombre": "Libros - Eco",
+    "descripcion": "Literatura y textos académicos",
+    "slug": "libros-mw7",
+    "activa": true,
+    "fecha_creacion": "2025-10-09"
+  },
+  {
+    "_id": "cat_ajb0hzz9go",
+    "nombre": "Belleza - Premium",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-pgy",
+    "activa": true,
+    "fecha_creacion": "2025-01-06"
+  },
+  {
+    "_id": "cat_neo4m8mr26",
+    "nombre": "Belleza - Eco",
+    "descripcion": "Cuidado personal y cosmética",
+    "slug": "belleza-pqe",
+    "activa": true,
+    "fecha_creacion": "2022-02-19"
+  }
+]

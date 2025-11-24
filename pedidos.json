@@ -1,0 +1,6747 @@
+[
+  {
+    "_id": "ord_guqry9i61k",
+    "usuario_id": "usr_i26xh26i00",
+    "items": [
+      {
+        "producto_id": "prd_ew98bshuu3",
+        "nombre_snapshot": "Balón Golty profesional",
+        "precio_unitario": {
+          "valor": 405.66,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_ie9jkz2w3x",
+        "nombre_snapshot": "Smartwatch deportivo 588",
+        "precio_unitario": {
+          "valor": 1263.68,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_0jmtnfg0di",
+        "nombre_snapshot": "Juguete para perro resistente 585",
+        "precio_unitario": {
+          "valor": 1746.62,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_pzuzk8lwkx",
+        "nombre_snapshot": "Mouse inalámbrico 150",
+        "precio_unitario": {
+          "valor": 564.57,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 10508.64,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 15574.38,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 375.97,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 25707.05,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 88 #51-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "681440"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_z3cdmfjiuqut",
+      "fecha_envio": "2024-04-26"
+    },
+    "fecha_pedido": "2023-06-25",
+    "fecha_actualizacion": "2024-05-13"
+  },
+  {
+    "_id": "ord_7limyfh7xs",
+    "usuario_id": "usr_w7079egqer",
+    "items": [
+      {
+        "producto_id": "prd_b29co0vs85",
+        "nombre_snapshot": "Ruana de lana boyacense",
+        "precio_unitario": {
+          "valor": 457.46,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 457.46,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 9490.96,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 48.02,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 9900.4,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 159 #54-37",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "348167"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_278q65gwvnec",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-12-29",
+    "fecha_actualizacion": "2025-06-17"
+  },
+  {
+    "_id": "ord_hwxzwz2g3b",
+    "usuario_id": "usr_z0ngb7awy7",
+    "items": [
+      {
+        "producto_id": "prd_b29co0vs85",
+        "nombre_snapshot": "Ruana de lana boyacense",
+        "precio_unitario": {
+          "valor": 457.46,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_jkbxwyfwxk",
+        "nombre_snapshot": "Libro 'Cien años de soledad'",
+        "precio_unitario": {
+          "valor": 161.23,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_b4f3lb0fy7",
+        "nombre_snapshot": "Zapatillas running 175",
+        "precio_unitario": {
+          "valor": 636.45,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_emflgy73y2",
+        "nombre_snapshot": "Sartén antiadherente 24cm 370",
+        "precio_unitario": {
+          "valor": 1637.17,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5963.61,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 27267.58,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 776.62,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 32454.57,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 12 #89-69",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander",
+      "pais": "Colombia",
+      "codigo_postal": "475664"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_otriekgk6ktw",
+      "fecha_envio": "2025-05-10"
+    },
+    "fecha_pedido": "2023-07-05",
+    "fecha_actualizacion": "2025-09-20"
+  },
+  {
+    "_id": "ord_b8fjpulzv1",
+    "usuario_id": "usr_cjb4mzmpp8",
+    "items": [
+      {
+        "producto_id": "prd_ukoa1nsr18",
+        "nombre_snapshot": "Mochila Wayuu artesanal",
+        "precio_unitario": {
+          "valor": 687.28,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1374.56,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 19909.32,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 8.18,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 21275.7,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 4 #4-10",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "646709"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_n94mei779qxl",
+      "fecha_envio": "2022-07-16"
+    },
+    "fecha_pedido": "2022-07-09",
+    "fecha_actualizacion": "2025-02-16"
+  },
+  {
+    "_id": "ord_5xnyu9o8uy",
+    "usuario_id": "usr_d1xs6jwy91",
+    "items": [
+      {
+        "producto_id": "prd_c6allwojc3",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 958",
+        "precio_unitario": {
+          "valor": 440.38,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_t2epbbm4yg",
+        "nombre_snapshot": "Café de origen Huila 500g",
+        "precio_unitario": {
+          "valor": 40.52,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_57bcjn1nnp",
+        "nombre_snapshot": "Mouse inalámbrico 165",
+        "precio_unitario": {
+          "valor": 548.38,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_jiv918yyx8",
+        "nombre_snapshot": "Juguete para perro resistente 727",
+        "precio_unitario": {
+          "valor": 975.61,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_muqyjvourn",
+        "nombre_snapshot": "Smartwatch deportivo 720",
+        "precio_unitario": {
+          "valor": 1344.07,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 8028.84,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 24293.43,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1143.86,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 31178.41,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Calle 154 #79-49",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "290626"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_9c4mp122z3b8",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-04-10",
+    "fecha_actualizacion": "2022-07-17"
+  },
+  {
+    "_id": "ord_iqvqqwo5n6",
+    "usuario_id": "usr_1hxafdgrrh",
+    "items": [
+      {
+        "producto_id": "prd_09tfor415b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 669",
+        "precio_unitario": {
+          "valor": 64.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_vyj4j7v3zg",
+        "nombre_snapshot": "Smartwatch deportivo 835",
+        "precio_unitario": {
+          "valor": 48.88,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_04rmv2voqy",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 481",
+        "precio_unitario": {
+          "valor": 673.68,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2295.96,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 12776.22,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 295.05,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 14777.13,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 107 #50-51",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "245235"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_2l89otg5jnvh",
+      "fecha_envio": "2025-10-29"
+    },
+    "fecha_pedido": "2024-03-01",
+    "fecha_actualizacion": "2023-07-22"
+  },
+  {
+    "_id": "ord_d78f6f80gs",
+    "usuario_id": "usr_w7079egqer",
+    "items": [
+      {
+        "producto_id": "prd_wz8gu3jt0s",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 725",
+        "precio_unitario": {
+          "valor": 201.96,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 605.88,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 1472.53,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 80.64,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 1997.77,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 159 #54-37",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "348167"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_te9z6vxxs645",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-03-15",
+    "fecha_actualizacion": "2025-01-18"
+  },
+  {
+    "_id": "ord_qvvshlsuru",
+    "usuario_id": "usr_d1xs6jwy91",
+    "items": [
+      {
+        "producto_id": "prd_zmdchhap43",
+        "nombre_snapshot": "Zapatillas running 574",
+        "precio_unitario": {
+          "valor": 1668.66,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_khjxlwq440",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 259",
+        "precio_unitario": {
+          "valor": 247.52,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gi7ztccc9h",
+        "nombre_snapshot": "Zapatillas running 653",
+        "precio_unitario": {
+          "valor": 24.16,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4104.04,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20496.95,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 639.34,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23961.65,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 154 #79-49",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "290626"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_5znxr44uep7c",
+      "fecha_envio": "2025-07-16"
+    },
+    "fecha_pedido": "2024-03-17",
+    "fecha_actualizacion": "2025-05-31"
+  },
+  {
+    "_id": "ord_22dwqmm4ts",
+    "usuario_id": "usr_apmk5z1et4",
+    "items": [
+      {
+        "producto_id": "prd_6btxmk1a1b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 215",
+        "precio_unitario": {
+          "valor": 683.14,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_sn4owuhs2i",
+        "nombre_snapshot": "Kit de aromáticas colombianas",
+        "precio_unitario": {
+          "valor": 169.61,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_ynko3yagf1",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 331",
+        "precio_unitario": {
+          "valor": 292.15,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_yggj9dpzd2",
+        "nombre_snapshot": "Crema hidratante corporal 599",
+        "precio_unitario": {
+          "valor": 1508.3,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4943.0,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 8969.75,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 702.16,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 13210.59,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 7 #105-5",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "491430"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_89y4kffs1myp",
+      "fecha_envio": "2023-11-24"
+    },
+    "fecha_pedido": "2024-10-28",
+    "fecha_actualizacion": "2022-11-24"
+  },
+  {
+    "_id": "ord_cbp8wpr8rj",
+    "usuario_id": "usr_fssp9g6udu",
+    "items": [
+      {
+        "producto_id": "prd_pzuzk8lwkx",
+        "nombre_snapshot": "Mouse inalámbrico 150",
+        "precio_unitario": {
+          "valor": 564.57,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_j18zdja4v9",
+        "nombre_snapshot": "Mouse inalámbrico 359",
+        "precio_unitario": {
+          "valor": 1072.89,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_sb1j1yz6bq",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 443",
+        "precio_unitario": {
+          "valor": 1337.71,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_axddpc7zoh",
+        "nombre_snapshot": "Crema hidratante corporal 556",
+        "precio_unitario": {
+          "valor": 1675.42,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 13152.6,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 15651.96,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 875.27,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27929.29,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 9 #29-16",
+      "ciudad": "Montería",
+      "departamento": "Córdoba",
+      "pais": "Colombia",
+      "codigo_postal": "675584"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_bolezllhj84e",
+      "fecha_envio": "2024-01-10"
+    },
+    "fecha_pedido": "2024-03-04",
+    "fecha_actualizacion": "2025-01-31"
+  },
+  {
+    "_id": "ord_eursat4w7x",
+    "usuario_id": "usr_z0ngb7awy7",
+    "items": [
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_sj3530yr2m",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 698",
+        "precio_unitario": {
+          "valor": 896.24,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_8jwffuifo2",
+        "nombre_snapshot": "Zapatillas running 780",
+        "precio_unitario": {
+          "valor": 290.6,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_uz2azcnzmv",
+        "nombre_snapshot": "Crema hidratante corporal 229",
+        "precio_unitario": {
+          "valor": 1180.86,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5727.51,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 5100.77,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1007.14,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 9821.14,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Carrera 12 #89-69",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander",
+      "pais": "Colombia",
+      "codigo_postal": "475664"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_lelx6c13l8qj",
+      "fecha_envio": "2023-01-09"
+    },
+    "fecha_pedido": "2024-05-24",
+    "fecha_actualizacion": "2023-06-26"
+  },
+  {
+    "_id": "ord_hczb5ae1u5",
+    "usuario_id": "usr_jaft5qiv27",
+    "items": [
+      {
+        "producto_id": "prd_ts4uw1x7er",
+        "nombre_snapshot": "Mouse inalámbrico 137",
+        "precio_unitario": {
+          "valor": 137.33,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_kthspglkwy",
+        "nombre_snapshot": "Zapatillas running 377",
+        "precio_unitario": {
+          "valor": 489.35,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_tmf1chra4h",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 473",
+        "precio_unitario": {
+          "valor": 652.91,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_9hb6shfz0t",
+        "nombre_snapshot": "Juguete para perro resistente 655",
+        "precio_unitario": {
+          "valor": 1059.54,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_ynko3yagf1",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 331",
+        "precio_unitario": {
+          "valor": 292.15,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5760.65,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 6894.56,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 465.25,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 12189.96,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Calle 142 #29-24",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "100954"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_959xeg1jyul6",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-06-09",
+    "fecha_actualizacion": "2023-11-30"
+  },
+  {
+    "_id": "ord_6naacdmurv",
+    "usuario_id": "usr_q30zkx0cbq",
+    "items": [
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_u8f32xpuai",
+        "nombre_snapshot": "Hamaca San Jacinto",
+        "precio_unitario": {
+          "valor": 591.11,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2886.39,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 16828.88,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 416.96,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 19298.31,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 146 #7-73",
+      "ciudad": "Medellín",
+      "departamento": "Antioquia",
+      "pais": "Colombia",
+      "codigo_postal": "398186"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_isl5oe5eskhw",
+      "fecha_envio": "2024-11-03"
+    },
+    "fecha_pedido": "2022-02-16",
+    "fecha_actualizacion": "2023-06-24"
+  },
+  {
+    "_id": "ord_tooe4hha42",
+    "usuario_id": "usr_6h9w0ddo0j",
+    "items": [
+      {
+        "producto_id": "prd_jilkuudxy1",
+        "nombre_snapshot": "Mouse inalámbrico 227",
+        "precio_unitario": {
+          "valor": 1526.94,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ics36y27m9",
+        "nombre_snapshot": "Mouse inalámbrico 497",
+        "precio_unitario": {
+          "valor": 992.4,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_3wolab9hcw",
+        "nombre_snapshot": "Bocadillo veleño 400g",
+        "precio_unitario": {
+          "valor": 103.95,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_3rwairtx6k",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 668",
+        "precio_unitario": {
+          "valor": 885.26,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_8o8w23qpge",
+        "nombre_snapshot": "Café de Sierra Nevada 340g",
+        "precio_unitario": {
+          "valor": 64.13,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6543.5,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 9508.28,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 948.47,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 15103.31,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 91 #79-80",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "273911"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_yqu6dx8dpjkh",
+      "fecha_envio": "2025-08-08"
+    },
+    "fecha_pedido": "2024-02-24",
+    "fecha_actualizacion": "2025-01-15"
+  },
+  {
+    "_id": "ord_5c6kdk0npp",
+    "usuario_id": "usr_bs7bifn48u",
+    "items": [
+      {
+        "producto_id": "prd_j5xkhl3i61",
+        "nombre_snapshot": "Zapatillas running 689",
+        "precio_unitario": {
+          "valor": 457.8,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_tkjza5u9qy",
+        "nombre_snapshot": "Juguete para perro resistente 550",
+        "precio_unitario": {
+          "valor": 301.11,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_az7thz5uu1",
+        "nombre_snapshot": "Crema hidratante corporal 975",
+        "precio_unitario": {
+          "valor": 1052.34,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_wz8gu3jt0s",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 725",
+        "precio_unitario": {
+          "valor": 201.96,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4876.8,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 18993.14,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 445.65,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23424.29,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 128 #29-64",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander",
+      "pais": "Colombia",
+      "codigo_postal": "674821"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_sj29ppd7gkm2",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-06-16",
+    "fecha_actualizacion": "2024-01-06"
+  },
+  {
+    "_id": "ord_1h1qfsh9xk",
+    "usuario_id": "usr_d2u7slpuzw",
+    "items": [
+      {
+        "producto_id": "prd_opeleu25zm",
+        "nombre_snapshot": "Zapatillas running 110",
+        "precio_unitario": {
+          "valor": 251.61,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_wax0a4wm43",
+        "nombre_snapshot": "Teclado mecánico Redragon",
+        "precio_unitario": {
+          "valor": 71.38,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_dcr3v1t8hg",
+        "nombre_snapshot": "Arepa boyacense x10",
+        "precio_unitario": {
+          "valor": 281.89,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1491.65,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 22415.28,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 161.87,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23745.06,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 135 #94-43",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "827880"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_3aabck8codsm",
+      "fecha_envio": "2025-11-28"
+    },
+    "fecha_pedido": "2022-12-17",
+    "fecha_actualizacion": "2025-08-02"
+  },
+  {
+    "_id": "ord_gtubrinowm",
+    "usuario_id": "usr_0sttnqnt8m",
+    "items": [
+      {
+        "producto_id": "prd_har6qdyals",
+        "nombre_snapshot": "Zapatillas running 827",
+        "precio_unitario": {
+          "valor": 1580.53,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_fizq4by2s9",
+        "nombre_snapshot": "Juguete para perro resistente 395",
+        "precio_unitario": {
+          "valor": 742.34,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6968.61,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 5344.76,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 256.29,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 12057.08,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Av. 94 #99-11",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "509226"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_vti4g21ah2wn",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-03-27",
+    "fecha_actualizacion": "2023-12-21"
+  },
+  {
+    "_id": "ord_v578hiwlcg",
+    "usuario_id": "usr_x823fmin59",
+    "items": [
+      {
+        "producto_id": "prd_8o8w23qpge",
+        "nombre_snapshot": "Café de Sierra Nevada 340g",
+        "precio_unitario": {
+          "valor": 64.13,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_esw5qy8dyp",
+        "nombre_snapshot": "Smartwatch deportivo 802",
+        "precio_unitario": {
+          "valor": 579.23,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1286.72,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 12792.98,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 17.83,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 14061.87,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Calle 111 #25-6",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "585307"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_x7bjsfutsq72",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-06-25",
+    "fecha_actualizacion": "2025-11-30"
+  },
+  {
+    "_id": "ord_l6ps4ssgcm",
+    "usuario_id": "usr_fnuyqrdc9s",
+    "items": [
+      {
+        "producto_id": "prd_09tfor415b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 669",
+        "precio_unitario": {
+          "valor": 64.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_uz2azcnzmv",
+        "nombre_snapshot": "Crema hidratante corporal 229",
+        "precio_unitario": {
+          "valor": 1180.86,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_ng9t32a00w",
+        "nombre_snapshot": "Juguete para perro resistente 330",
+        "precio_unitario": {
+          "valor": 635.3,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4395.9,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 24710.17,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 621.91,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 28484.16,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 37 #66-34",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "981212"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_unwbtrzo5ib9",
+      "fecha_envio": "2024-08-18"
+    },
+    "fecha_pedido": "2025-12-20",
+    "fecha_actualizacion": "2022-04-26"
+  },
+  {
+    "_id": "ord_gqwfxo9ek1",
+    "usuario_id": "usr_oznq92qsan",
+    "items": [
+      {
+        "producto_id": "prd_k33e7rkoyi",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 622",
+        "precio_unitario": {
+          "valor": 539.12,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_i6y6nibzri",
+        "nombre_snapshot": "Mouse inalámbrico 684",
+        "precio_unitario": {
+          "valor": 95.73,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_esw5qy8dyp",
+        "nombre_snapshot": "Smartwatch deportivo 802",
+        "precio_unitario": {
+          "valor": 579.23,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1405.54,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 8579.58,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 39.34,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 9945.78,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Av. 115 #29-71",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "275648"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_azdg32hszfsu",
+      "fecha_envio": "2023-11-07"
+    },
+    "fecha_pedido": "2025-08-02",
+    "fecha_actualizacion": "2025-12-24"
+  },
+  {
+    "_id": "ord_j6scj5iuza",
+    "usuario_id": "usr_8cq8kmknps",
+    "items": [
+      {
+        "producto_id": "prd_u8f32xpuai",
+        "nombre_snapshot": "Hamaca San Jacinto",
+        "precio_unitario": {
+          "valor": 591.11,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_az7thz5uu1",
+        "nombre_snapshot": "Crema hidratante corporal 975",
+        "precio_unitario": {
+          "valor": 1052.34,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3878.01,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 3593.83,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 426.97,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 7044.87,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 1 #61-7",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "942292"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_vikgxxn4py3s",
+      "fecha_envio": "2024-10-14"
+    },
+    "fecha_pedido": "2025-09-05",
+    "fecha_actualizacion": "2025-06-09"
+  },
+  {
+    "_id": "ord_ottaf0z67a",
+    "usuario_id": "usr_z0ngb7awy7",
+    "items": [
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4845.78,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 19286.71,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 433.93,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23698.56,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 12 #89-69",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander",
+      "pais": "Colombia",
+      "codigo_postal": "475664"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_uvveq3yslmg4",
+      "fecha_envio": "2023-10-25"
+    },
+    "fecha_pedido": "2024-12-02",
+    "fecha_actualizacion": "2024-09-26"
+  },
+  {
+    "_id": "ord_2id1lovklu",
+    "usuario_id": "usr_m63zzpv20p",
+    "items": [
+      {
+        "producto_id": "prd_jiv918yyx8",
+        "nombre_snapshot": "Juguete para perro resistente 727",
+        "precio_unitario": {
+          "valor": 975.61,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_khjxlwq440",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 259",
+        "precio_unitario": {
+          "valor": 247.52,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_yggj9dpzd2",
+        "nombre_snapshot": "Crema hidratante corporal 599",
+        "precio_unitario": {
+          "valor": 1508.3,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_k33e7rkoyi",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 622",
+        "precio_unitario": {
+          "valor": 539.12,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_hi8dacq8zf",
+        "nombre_snapshot": "Zapatillas running 824",
+        "precio_unitario": {
+          "valor": 81.16,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9020.97,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 13616.84,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1200.25,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 21437.56,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 115 #36-29",
+      "ciudad": "Villavicencio",
+      "departamento": "Meta",
+      "pais": "Colombia",
+      "codigo_postal": "537334"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_0fdgk5it66tt",
+      "fecha_envio": "2022-06-20"
+    },
+    "fecha_pedido": "2023-01-27",
+    "fecha_actualizacion": "2023-04-29"
+  },
+  {
+    "_id": "ord_owl4xezbc9",
+    "usuario_id": "usr_1hxafdgrrh",
+    "items": [
+      {
+        "producto_id": "prd_esw5qy8dyp",
+        "nombre_snapshot": "Smartwatch deportivo 802",
+        "precio_unitario": {
+          "valor": 579.23,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_jdhntu8vei",
+        "nombre_snapshot": "Smartwatch deportivo 387",
+        "precio_unitario": {
+          "valor": 1556.47,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_9hb6shfz0t",
+        "nombre_snapshot": "Juguete para perro resistente 655",
+        "precio_unitario": {
+          "valor": 1059.54,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5893.55,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 18552.04,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 843.92,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23601.67,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Calle 107 #50-51",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "245235"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_mg0me8iese5c",
+      "fecha_envio": "2025-10-26"
+    },
+    "fecha_pedido": "2023-10-27",
+    "fecha_actualizacion": "2025-10-13"
+  },
+  {
+    "_id": "ord_lrub9xwwnr",
+    "usuario_id": "usr_eiusk917h7",
+    "items": [
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_p72h5gh3i6",
+        "nombre_snapshot": "Panela orgánica 1kg",
+        "precio_unitario": {
+          "valor": 257.01,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1568.19,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 11412.7,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 252.24,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 12728.65,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Av. 52 #3-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "377018"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_0taede3wbn8p",
+      "fecha_envio": "2024-05-16"
+    },
+    "fecha_pedido": "2024-08-10",
+    "fecha_actualizacion": "2024-08-06"
+  },
+  {
+    "_id": "ord_7cpca0qe5c",
+    "usuario_id": "usr_mznqgb1zty",
+    "items": [
+      {
+        "producto_id": "prd_ukoa1nsr18",
+        "nombre_snapshot": "Mochila Wayuu artesanal",
+        "precio_unitario": {
+          "valor": 687.28,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_9wlwu3f64u",
+        "nombre_snapshot": "Zapatillas running 557",
+        "precio_unitario": {
+          "valor": 1196.64,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_b29co0vs85",
+        "nombre_snapshot": "Ruana de lana boyacense",
+        "precio_unitario": {
+          "valor": 457.46,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4225.3,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 12941.92,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 161.26,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 17005.96,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Carrera 124 #17-53",
+      "ciudad": "Villavicencio",
+      "departamento": "Meta",
+      "pais": "Colombia",
+      "codigo_postal": "973008"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_yhdfhtd0p33c",
+      "fecha_envio": "2025-09-13"
+    },
+    "fecha_pedido": "2022-05-26",
+    "fecha_actualizacion": "2022-12-03"
+  },
+  {
+    "_id": "ord_71vamsd608",
+    "usuario_id": "usr_cidg06b0a8",
+    "items": [
+      {
+        "producto_id": "prd_o6o0ges3ub",
+        "nombre_snapshot": "Sartén antiadherente 24cm 279",
+        "precio_unitario": {
+          "valor": 800.7,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_t2epbbm4yg",
+        "nombre_snapshot": "Café de origen Huila 500g",
+        "precio_unitario": {
+          "valor": 40.52,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_c6allwojc3",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 958",
+        "precio_unitario": {
+          "valor": 440.38,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_6prnfapofx",
+        "nombre_snapshot": "Chorizo santarrosano 500g",
+        "precio_unitario": {
+          "valor": 172.4,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2239.18,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 26575.61,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 133.01,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 28681.78,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Av. 157 #44-63",
+      "ciudad": "Santa Marta",
+      "departamento": "Magdalena",
+      "pais": "Colombia",
+      "codigo_postal": "302568"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_vkp3nafsqh4t",
+      "fecha_envio": "2022-11-22"
+    },
+    "fecha_pedido": "2022-11-05",
+    "fecha_actualizacion": "2023-08-17"
+  },
+  {
+    "_id": "ord_mykculne2u",
+    "usuario_id": "usr_509uvwpxog",
+    "items": [
+      {
+        "producto_id": "prd_jiv918yyx8",
+        "nombre_snapshot": "Juguete para perro resistente 727",
+        "precio_unitario": {
+          "valor": 975.61,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_5v41b587gb",
+        "nombre_snapshot": "Smartwatch deportivo 399",
+        "precio_unitario": {
+          "valor": 1375.13,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 8371.89,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 6887.12,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 123.85,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 15135.16,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Av. 98 #41-56",
+      "ciudad": "Bogotá",
+      "departamento": "Cundinamarca",
+      "pais": "Colombia",
+      "codigo_postal": "539704"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_8u7jeq4g5k2q",
+      "fecha_envio": "2024-03-08"
+    },
+    "fecha_pedido": "2024-11-13",
+    "fecha_actualizacion": "2025-03-01"
+  },
+  {
+    "_id": "ord_p2y16v9fji",
+    "usuario_id": "usr_cjb4mzmpp8",
+    "items": [
+      {
+        "producto_id": "prd_ew98bshuu3",
+        "nombre_snapshot": "Balón Golty profesional",
+        "precio_unitario": {
+          "valor": 405.66,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ng9t32a00w",
+        "nombre_snapshot": "Juguete para perro resistente 330",
+        "precio_unitario": {
+          "valor": 635.3,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_har6qdyals",
+        "nombre_snapshot": "Zapatillas running 827",
+        "precio_unitario": {
+          "valor": 1580.53,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_yggj9dpzd2",
+        "nombre_snapshot": "Crema hidratante corporal 599",
+        "precio_unitario": {
+          "valor": 1508.3,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 7290.85,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 7889.7,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 524.98,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 14655.57,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 4 #4-10",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "646709"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_m6tvm4wmi4ya",
+      "fecha_envio": "2024-09-12"
+    },
+    "fecha_pedido": "2025-05-12",
+    "fecha_actualizacion": "2023-09-02"
+  },
+  {
+    "_id": "ord_jdxi3mp9to",
+    "usuario_id": "usr_i1e4z2h7pv",
+    "items": [
+      {
+        "producto_id": "prd_b29co0vs85",
+        "nombre_snapshot": "Ruana de lana boyacense",
+        "precio_unitario": {
+          "valor": 457.46,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_8o8w23qpge",
+        "nombre_snapshot": "Café de Sierra Nevada 340g",
+        "precio_unitario": {
+          "valor": 64.13,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 979.05,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 26364.31,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 30.78,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27312.58,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 17 #16-71",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "658046"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_z1yhzfcwos5t",
+      "fecha_envio": "2023-11-03"
+    },
+    "fecha_pedido": "2025-07-22",
+    "fecha_actualizacion": "2023-10-23"
+  },
+  {
+    "_id": "ord_ueiemxtsn5",
+    "usuario_id": "usr_0zfizz4gf6",
+    "items": [
+      {
+        "producto_id": "prd_pl89g2yy3a",
+        "nombre_snapshot": "Juguete para perro resistente 985",
+        "precio_unitario": {
+          "valor": 1332.76,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_8o8w23qpge",
+        "nombre_snapshot": "Café de Sierra Nevada 340g",
+        "precio_unitario": {
+          "valor": 64.13,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4190.67,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 16642.71,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 82.37,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 20751.01,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 37 #14-20",
+      "ciudad": "Montería",
+      "departamento": "Córdoba",
+      "pais": "Colombia",
+      "codigo_postal": "732766"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_8x08nse7gci2",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-08-21",
+    "fecha_actualizacion": "2022-12-09"
+  },
+  {
+    "_id": "ord_p0ogm37ajj",
+    "usuario_id": "usr_w7079egqer",
+    "items": [
+      {
+        "producto_id": "prd_a49y4jixr4",
+        "nombre_snapshot": "Camiseta Selección Colombia",
+        "precio_unitario": {
+          "valor": 601.74,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_hi8dacq8zf",
+        "nombre_snapshot": "Zapatillas running 824",
+        "precio_unitario": {
+          "valor": 81.16,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_j18zdja4v9",
+        "nombre_snapshot": "Mouse inalámbrico 359",
+        "precio_unitario": {
+          "valor": 1072.89,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4086.01,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 612.97,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 547.06,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 4151.92,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 159 #54-37",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "348167"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_tca87h7cgcic",
+      "fecha_envio": "2024-02-25"
+    },
+    "fecha_pedido": "2025-12-27",
+    "fecha_actualizacion": "2022-01-30"
+  },
+  {
+    "_id": "ord_xixotimrsm",
+    "usuario_id": "usr_ox5vvcdout",
+    "items": [
+      {
+        "producto_id": "prd_khjxlwq440",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 259",
+        "precio_unitario": {
+          "valor": 247.52,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_5tgrh2j9h0",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 171",
+        "precio_unitario": {
+          "valor": 1674.0,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_t2epbbm4yg",
+        "nombre_snapshot": "Café de origen Huila 500g",
+        "precio_unitario": {
+          "valor": 40.52,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_p5y6c6wn7z",
+        "nombre_snapshot": "Zapatillas running 744",
+        "precio_unitario": {
+          "valor": 212.15,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_uz2azcnzmv",
+        "nombre_snapshot": "Crema hidratante corporal 229",
+        "precio_unitario": {
+          "valor": 1180.86,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 7896.11,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 7982.85,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 209.49,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 15669.47,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Transversal 102 #15-49",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "955813"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_8vqvqi6n5ejn",
+      "fecha_envio": "2025-10-07"
+    },
+    "fecha_pedido": "2025-10-06",
+    "fecha_actualizacion": "2024-07-24"
+  },
+  {
+    "_id": "ord_rf5f6sl1v4",
+    "usuario_id": "usr_i1e4z2h7pv",
+    "items": [
+      {
+        "producto_id": "prd_dxcewl7mga",
+        "nombre_snapshot": "Juguete para perro resistente 697",
+        "precio_unitario": {
+          "valor": 361.99,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_vyj4j7v3zg",
+        "nombre_snapshot": "Smartwatch deportivo 835",
+        "precio_unitario": {
+          "valor": 48.88,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_6prnfapofx",
+        "nombre_snapshot": "Chorizo santarrosano 500g",
+        "precio_unitario": {
+          "valor": 172.4,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_sj3530yr2m",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 698",
+        "precio_unitario": {
+          "valor": 896.24,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3493.27,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 7657.54,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 367.48,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 10783.33,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Carrera 17 #16-71",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "658046"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_xlpmwlcad53a",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-03-23",
+    "fecha_actualizacion": "2025-12-26"
+  },
+  {
+    "_id": "ord_j90mlr3wqy",
+    "usuario_id": "usr_goe2yngo54",
+    "items": [
+      {
+        "producto_id": "prd_6btxmk1a1b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 215",
+        "precio_unitario": {
+          "valor": 683.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_6prnfapofx",
+        "nombre_snapshot": "Chorizo santarrosano 500g",
+        "precio_unitario": {
+          "valor": 172.4,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_ar0np1gqwu",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 897",
+        "precio_unitario": {
+          "valor": 615.87,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_5tgrh2j9h0",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 171",
+        "precio_unitario": {
+          "valor": 1674.0,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_3rwairtx6k",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 668",
+        "precio_unitario": {
+          "valor": 885.26,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9119.0,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 730.12,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 418.81,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 9430.31,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Transversal 113 #71-68",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "734130"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_ffu0d800xfwt",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-10-12",
+    "fecha_actualizacion": "2022-01-11"
+  },
+  {
+    "_id": "ord_qycxm8ywv8",
+    "usuario_id": "usr_x823fmin59",
+    "items": [
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_ew98bshuu3",
+        "nombre_snapshot": "Balón Golty profesional",
+        "precio_unitario": {
+          "valor": 405.66,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_khjxlwq440",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 259",
+        "precio_unitario": {
+          "valor": 247.52,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2716.98,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 13135.43,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 219.04,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 15633.37,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "cancelado",
+    "direccion_envio": {
+      "linea1": "Calle 111 #25-6",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "585307"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_ipsuxmid4p6h",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-01-26",
+    "fecha_actualizacion": "2022-07-13"
+  },
+  {
+    "_id": "ord_c9x8dtfiwm",
+    "usuario_id": "usr_509uvwpxog",
+    "items": [
+      {
+        "producto_id": "prd_ng9t32a00w",
+        "nombre_snapshot": "Juguete para perro resistente 330",
+        "precio_unitario": {
+          "valor": 635.3,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1270.6,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 18694.52,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 102.47,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 19862.65,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Av. 98 #41-56",
+      "ciudad": "Bogotá",
+      "departamento": "Cundinamarca",
+      "pais": "Colombia",
+      "codigo_postal": "539704"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_64fnj8pe538w",
+      "fecha_envio": "2022-03-13"
+    },
+    "fecha_pedido": "2023-03-14",
+    "fecha_actualizacion": "2025-07-05"
+  },
+  {
+    "_id": "ord_7h87okrlqx",
+    "usuario_id": "usr_d1xs6jwy91",
+    "items": [
+      {
+        "producto_id": "prd_khjxlwq440",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 259",
+        "precio_unitario": {
+          "valor": 247.52,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_gpvrplbk1d",
+        "nombre_snapshot": "Olla a presión Imusa 6L",
+        "precio_unitario": {
+          "valor": 764.17,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_muqyjvourn",
+        "nombre_snapshot": "Smartwatch deportivo 720",
+        "precio_unitario": {
+          "valor": 1344.07,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5258.53,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 24354.66,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 403.16,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 29210.03,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 154 #79-49",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "290626"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_h6kxtmmr5kcs",
+      "fecha_envio": "2022-11-15"
+    },
+    "fecha_pedido": "2024-03-22",
+    "fecha_actualizacion": "2023-12-13"
+  },
+  {
+    "_id": "ord_03x82zqqlc",
+    "usuario_id": "usr_hrgjhd340p",
+    "items": [
+      {
+        "producto_id": "prd_axddpc7zoh",
+        "nombre_snapshot": "Crema hidratante corporal 556",
+        "precio_unitario": {
+          "valor": 1675.42,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_fizq4by2s9",
+        "nombre_snapshot": "Juguete para perro resistente 395",
+        "precio_unitario": {
+          "valor": 742.34,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4835.52,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20988.8,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 714.09,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 25110.23,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 21 #87-6",
+      "ciudad": "Manizales",
+      "departamento": "Caldas",
+      "pais": "Colombia",
+      "codigo_postal": "347796"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_5htykz8u7y1g",
+      "fecha_envio": "2025-02-28"
+    },
+    "fecha_pedido": "2022-08-05",
+    "fecha_actualizacion": "2022-09-16"
+  },
+  {
+    "_id": "ord_vzhkp7cufd",
+    "usuario_id": "usr_1251o0m1cw",
+    "items": [
+      {
+        "producto_id": "prd_ukoa1nsr18",
+        "nombre_snapshot": "Mochila Wayuu artesanal",
+        "precio_unitario": {
+          "valor": 687.28,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_vhx74wabnb",
+        "nombre_snapshot": "Audífonos Xiaomi Redmi Buds",
+        "precio_unitario": {
+          "valor": 774.88,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2836.72,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 25261.64,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 34.07,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 28064.29,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 63 #53-47",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "316559"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_a5w1ufd1z3kb",
+      "fecha_envio": "2025-06-14"
+    },
+    "fecha_pedido": "2025-02-02",
+    "fecha_actualizacion": "2022-10-31"
+  },
+  {
+    "_id": "ord_sm7nakonwn",
+    "usuario_id": "usr_d1xs6jwy91",
+    "items": [
+      {
+        "producto_id": "prd_yggj9dpzd2",
+        "nombre_snapshot": "Crema hidratante corporal 599",
+        "precio_unitario": {
+          "valor": 1508.3,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_pl89g2yy3a",
+        "nombre_snapshot": "Juguete para perro resistente 985",
+        "precio_unitario": {
+          "valor": 1332.76,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_b5bktpeahh",
+        "nombre_snapshot": "Zapatillas running 539",
+        "precio_unitario": {
+          "valor": 1735.07,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 12395.63,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 10977.26,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1753.73,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 21619.16,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Calle 154 #79-49",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "290626"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_3lmljkksyyjy",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2025-02-14",
+    "fecha_actualizacion": "2023-07-29"
+  },
+  {
+    "_id": "ord_7l1fgvbf6q",
+    "usuario_id": "usr_26xnposyxr",
+    "items": [
+      {
+        "producto_id": "prd_jn6fqnh4hz",
+        "nombre_snapshot": "Sombrero vueltiao auténtico",
+        "precio_unitario": {
+          "valor": 400.88,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1202.64,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 1259.55,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 10.11,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 2452.08,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 81 #40-32",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "469716"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_sh0kwqme0i1z",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-10-11",
+    "fecha_actualizacion": "2023-03-09"
+  },
+  {
+    "_id": "ord_dmo13eeuv2",
+    "usuario_id": "usr_g519jsfitj",
+    "items": [
+      {
+        "producto_id": "prd_04rmv2voqy",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 481",
+        "precio_unitario": {
+          "valor": 673.68,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_sb1j1yz6bq",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 443",
+        "precio_unitario": {
+          "valor": 1337.71,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_jiv918yyx8",
+        "nombre_snapshot": "Juguete para perro resistente 727",
+        "precio_unitario": {
+          "valor": 975.61,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6275.93,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 14286.95,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 962.79,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 19600.09,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 106 #101-51",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "761871"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_6a0v9yom4g8s",
+      "fecha_envio": "2024-08-17"
+    },
+    "fecha_pedido": "2022-04-10",
+    "fecha_actualizacion": "2025-09-23"
+  },
+  {
+    "_id": "ord_zykop8py1e",
+    "usuario_id": "usr_qi6n23jke1",
+    "items": [
+      {
+        "producto_id": "prd_o6o0ges3ub",
+        "nombre_snapshot": "Sartén antiadherente 24cm 279",
+        "precio_unitario": {
+          "valor": 800.7,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_vyj4j7v3zg",
+        "nombre_snapshot": "Smartwatch deportivo 835",
+        "precio_unitario": {
+          "valor": 48.88,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5744.24,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 8631.21,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 667.55,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 13707.9,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Transversal 40 #82-19",
+      "ciudad": "Santa Marta",
+      "departamento": "Magdalena",
+      "pais": "Colombia",
+      "codigo_postal": "750615"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_i05n1eev4j6n",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-06-30",
+    "fecha_actualizacion": "2024-07-15"
+  },
+  {
+    "_id": "ord_l6lymkj4gf",
+    "usuario_id": "usr_w7079egqer",
+    "items": [
+      {
+        "producto_id": "prd_sb1j1yz6bq",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 443",
+        "precio_unitario": {
+          "valor": 1337.71,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_3rwairtx6k",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 668",
+        "precio_unitario": {
+          "valor": 885.26,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_wz8gu3jt0s",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 725",
+        "precio_unitario": {
+          "valor": 201.96,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_6btxmk1a1b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 215",
+        "precio_unitario": {
+          "valor": 683.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5965.65,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 3652.58,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 623.03,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 8995.2,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 159 #54-37",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "348167"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_rt5m3cc8rcep",
+      "fecha_envio": "2024-12-19"
+    },
+    "fecha_pedido": "2025-11-13",
+    "fecha_actualizacion": "2024-01-11"
+  },
+  {
+    "_id": "ord_f0qp28hriz",
+    "usuario_id": "usr_c88r1ohzry",
+    "items": [
+      {
+        "producto_id": "prd_dxcewl7mga",
+        "nombre_snapshot": "Juguete para perro resistente 697",
+        "precio_unitario": {
+          "valor": 361.99,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_8jwffuifo2",
+        "nombre_snapshot": "Zapatillas running 780",
+        "precio_unitario": {
+          "valor": 290.6,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_az7thz5uu1",
+        "nombre_snapshot": "Crema hidratante corporal 975",
+        "precio_unitario": {
+          "valor": 1052.34,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4062.45,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20130.28,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 429.81,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23762.92,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Av. 71 #27-55",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "480264"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_lmybd1u6o7hz",
+      "fecha_envio": "2024-09-05"
+    },
+    "fecha_pedido": "2024-02-03",
+    "fecha_actualizacion": "2025-06-30"
+  },
+  {
+    "_id": "ord_dxymdnc96r",
+    "usuario_id": "usr_8pkc1p33e5",
+    "items": [
+      {
+        "producto_id": "prd_c6allwojc3",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 958",
+        "precio_unitario": {
+          "valor": 440.38,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 880.76,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 26710.88,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 115.33,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27476.31,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 137 #19-57",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "716126"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_loy7t4nd5uq9",
+      "fecha_envio": "2023-04-27"
+    },
+    "fecha_pedido": "2024-08-25",
+    "fecha_actualizacion": "2023-02-21"
+  },
+  {
+    "_id": "ord_ui4jgxkpb8",
+    "usuario_id": "usr_6h9w0ddo0j",
+    "items": [
+      {
+        "producto_id": "prd_0jmtnfg0di",
+        "nombre_snapshot": "Juguete para perro resistente 585",
+        "precio_unitario": {
+          "valor": 1746.62,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_ynko3yagf1",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 331",
+        "precio_unitario": {
+          "valor": 292.15,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_dxcewl7mga",
+        "nombre_snapshot": "Juguete para perro resistente 697",
+        "precio_unitario": {
+          "valor": 361.99,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_iymm9cpx49",
+        "nombre_snapshot": "Sartén antiadherente 24cm 247",
+        "precio_unitario": {
+          "valor": 439.41,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_ssuyajwiyk",
+        "nombre_snapshot": "Zapatillas running 543",
+        "precio_unitario": {
+          "valor": 1088.62,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 7565.43,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 834.94,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1230.4,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 7169.97,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 91 #79-80",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "273911"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_o76zch26rolw",
+      "fecha_envio": "2025-08-01"
+    },
+    "fecha_pedido": "2022-04-14",
+    "fecha_actualizacion": "2024-06-21"
+  },
+  {
+    "_id": "ord_k6qq6jcgvg",
+    "usuario_id": "usr_dnzvlab6jc",
+    "items": [
+      {
+        "producto_id": "prd_pl89g2yy3a",
+        "nombre_snapshot": "Juguete para perro resistente 985",
+        "precio_unitario": {
+          "valor": 1332.76,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2665.52,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 15426.57,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 359.11,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 17732.98,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 74 #35-5",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "432779"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_69aijz11n3ig",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-10-17",
+    "fecha_actualizacion": "2025-04-22"
+  },
+  {
+    "_id": "ord_f9b8x9fmk8",
+    "usuario_id": "usr_1251o0m1cw",
+    "items": [
+      {
+        "producto_id": "prd_vyj4j7v3zg",
+        "nombre_snapshot": "Smartwatch deportivo 835",
+        "precio_unitario": {
+          "valor": 48.88,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_04rmv2voqy",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 481",
+        "precio_unitario": {
+          "valor": 673.68,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_opeleu25zm",
+        "nombre_snapshot": "Zapatillas running 110",
+        "precio_unitario": {
+          "valor": 251.61,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_chnkz0xpzu",
+        "nombre_snapshot": "Juguete para perro resistente 465",
+        "precio_unitario": {
+          "valor": 774.43,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3395.22,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 5577.52,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 4.41,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 8968.33,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 63 #53-47",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "316559"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_g801tmxsi8pq",
+      "fecha_envio": "2025-02-28"
+    },
+    "fecha_pedido": "2025-12-19",
+    "fecha_actualizacion": "2025-12-12"
+  },
+  {
+    "_id": "ord_azfx6712a9",
+    "usuario_id": "usr_hiusxcg3wr",
+    "items": [
+      {
+        "producto_id": "prd_vyj4j7v3zg",
+        "nombre_snapshot": "Smartwatch deportivo 835",
+        "precio_unitario": {
+          "valor": 48.88,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2671.24,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 3829.14,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 166.34,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 6334.04,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Calle 122 #27-19",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "872551"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_plervpvys8xa",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-03-18",
+    "fecha_actualizacion": "2023-11-16"
+  },
+  {
+    "_id": "ord_jdxs9v6ym4",
+    "usuario_id": "usr_8pkc1p33e5",
+    "items": [
+      {
+        "producto_id": "prd_b29co0vs85",
+        "nombre_snapshot": "Ruana de lana boyacense",
+        "precio_unitario": {
+          "valor": 457.46,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_pl89g2yy3a",
+        "nombre_snapshot": "Juguete para perro resistente 985",
+        "precio_unitario": {
+          "valor": 1332.76,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_pzuzk8lwkx",
+        "nombre_snapshot": "Mouse inalámbrico 150",
+        "precio_unitario": {
+          "valor": 564.57,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_ssuyajwiyk",
+        "nombre_snapshot": "Zapatillas running 543",
+        "precio_unitario": {
+          "valor": 1088.62,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9555.85,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 4188.71,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 211.79,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 13532.77,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Transversal 137 #19-57",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "716126"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_8tslbhjtno8l",
+      "fecha_envio": "2022-01-16"
+    },
+    "fecha_pedido": "2023-03-01",
+    "fecha_actualizacion": "2024-01-20"
+  },
+  {
+    "_id": "ord_xsa25dh3sn",
+    "usuario_id": "usr_kogenxsss1",
+    "items": [
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 101.85,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 16397.2,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 17.0,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 16482.05,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Transversal 127 #34-72",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "943583"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_mp30821civ1m",
+      "fecha_envio": "2023-05-23"
+    },
+    "fecha_pedido": "2022-08-27",
+    "fecha_actualizacion": "2024-12-24"
+  },
+  {
+    "_id": "ord_y9upwq29j5",
+    "usuario_id": "usr_tl5o0vjzdn",
+    "items": [
+      {
+        "producto_id": "prd_ukoa1nsr18",
+        "nombre_snapshot": "Mochila Wayuu artesanal",
+        "precio_unitario": {
+          "valor": 687.28,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_7vni7s9e6b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 267",
+        "precio_unitario": {
+          "valor": 1788.52,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3884.31,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 13044.77,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 293.61,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 16635.47,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Carrera 45 #54-17",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "437712"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_aueg2x39j3dm",
+      "fecha_envio": "2025-04-03"
+    },
+    "fecha_pedido": "2024-12-30",
+    "fecha_actualizacion": "2022-05-15"
+  },
+  {
+    "_id": "ord_qfhk0do5nj",
+    "usuario_id": "usr_894j43ebjj",
+    "items": [
+      {
+        "producto_id": "prd_yf0k8s16ll",
+        "nombre_snapshot": "Zapatillas running 532",
+        "precio_unitario": {
+          "valor": 1502.27,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_9wlwu3f64u",
+        "nombre_snapshot": "Zapatillas running 557",
+        "precio_unitario": {
+          "valor": 1196.64,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5092.19,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20149.54,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 439.6,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 24802.13,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Carrera 148 #37-61",
+      "ciudad": "Santa Marta",
+      "departamento": "Magdalena",
+      "pais": "Colombia",
+      "codigo_postal": "918123"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_0g5pjpasmwa2",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-04-27",
+    "fecha_actualizacion": "2022-01-21"
+  },
+  {
+    "_id": "ord_i9hcnljku9",
+    "usuario_id": "usr_236zxdis3t",
+    "items": [
+      {
+        "producto_id": "prd_ie9jkz2w3x",
+        "nombre_snapshot": "Smartwatch deportivo 588",
+        "precio_unitario": {
+          "valor": 1263.68,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1263.68,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 14063.64,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 213.31,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 15114.01,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Diagonal 66 #8-70",
+      "ciudad": "Villavicencio",
+      "departamento": "Meta",
+      "pais": "Colombia",
+      "codigo_postal": "964138"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_alvb3knmjmtw",
+      "fecha_envio": "2022-05-08"
+    },
+    "fecha_pedido": "2022-02-09",
+    "fecha_actualizacion": "2025-01-28"
+  },
+  {
+    "_id": "ord_ne6k4hthsx",
+    "usuario_id": "usr_i26xh26i00",
+    "items": [
+      {
+        "producto_id": "prd_dcr3v1t8hg",
+        "nombre_snapshot": "Arepa boyacense x10",
+        "precio_unitario": {
+          "valor": 281.89,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_b4f3lb0fy7",
+        "nombre_snapshot": "Zapatillas running 175",
+        "precio_unitario": {
+          "valor": 636.45,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_yxq7idnhhj",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 220",
+        "precio_unitario": {
+          "valor": 318.23,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_267t80iq10",
+        "nombre_snapshot": "Smartwatch deportivo 135",
+        "precio_unitario": {
+          "valor": 1210.16,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 10020.38,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 5236.08,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1150.22,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 14106.24,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 88 #51-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "681440"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_ub8mvse5s7a8",
+      "fecha_envio": "2022-12-21"
+    },
+    "fecha_pedido": "2024-12-13",
+    "fecha_actualizacion": "2025-09-24"
+  },
+  {
+    "_id": "ord_rkjtl1siqp",
+    "usuario_id": "usr_8pkc1p33e5",
+    "items": [
+      {
+        "producto_id": "prd_sb1j1yz6bq",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 443",
+        "precio_unitario": {
+          "valor": 1337.71,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_opeleu25zm",
+        "nombre_snapshot": "Zapatillas running 110",
+        "precio_unitario": {
+          "valor": 251.61,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_exn7ihm00h",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 847",
+        "precio_unitario": {
+          "valor": 435.73,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3362.76,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 5373.78,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 474.65,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 8261.89,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Transversal 137 #19-57",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "716126"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_bhic1hks1xlw",
+      "fecha_envio": "2023-09-03"
+    },
+    "fecha_pedido": "2025-04-26",
+    "fecha_actualizacion": "2023-07-20"
+  },
+  {
+    "_id": "ord_ldblxo8k8k",
+    "usuario_id": "usr_ox5vvcdout",
+    "items": [
+      {
+        "producto_id": "prd_p5y6c6wn7z",
+        "nombre_snapshot": "Zapatillas running 744",
+        "precio_unitario": {
+          "valor": 212.15,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 636.45,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 22227.17,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 53.39,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 22810.23,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 102 #15-49",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "955813"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_kkcgdt0a6qpm",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-07-21",
+    "fecha_actualizacion": "2022-09-12"
+  },
+  {
+    "_id": "ord_3n921lun2j",
+    "usuario_id": "usr_m7ytv6rjbl",
+    "items": [
+      {
+        "producto_id": "prd_jilkuudxy1",
+        "nombre_snapshot": "Mouse inalámbrico 227",
+        "precio_unitario": {
+          "valor": 1526.94,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_zmdchhap43",
+        "nombre_snapshot": "Zapatillas running 574",
+        "precio_unitario": {
+          "valor": 1668.66,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_kthspglkwy",
+        "nombre_snapshot": "Zapatillas running 377",
+        "precio_unitario": {
+          "valor": 489.35,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_az7thz5uu1",
+        "nombre_snapshot": "Crema hidratante corporal 975",
+        "precio_unitario": {
+          "valor": 1052.34,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6278.98,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 3428.31,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 854.84,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 8852.45,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 75 #80-34",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "491912"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_83kmhpltouk6",
+      "fecha_envio": "2025-12-18"
+    },
+    "fecha_pedido": "2025-08-27",
+    "fecha_actualizacion": "2023-02-05"
+  },
+  {
+    "_id": "ord_25pgyoerti",
+    "usuario_id": "usr_tkypbqgcj8",
+    "items": [
+      {
+        "producto_id": "prd_8jwffuifo2",
+        "nombre_snapshot": "Zapatillas running 780",
+        "precio_unitario": {
+          "valor": 290.6,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_vyj4j7v3zg",
+        "nombre_snapshot": "Smartwatch deportivo 835",
+        "precio_unitario": {
+          "valor": 48.88,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_6i5epjgo8i",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 615",
+        "precio_unitario": {
+          "valor": 1749.63,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_i3le0qugl7",
+        "nombre_snapshot": "Sartén antiadherente 24cm 364",
+        "precio_unitario": {
+          "valor": 736.9,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_e4l75k850k",
+        "nombre_snapshot": "Juguete para perro resistente 640",
+        "precio_unitario": {
+          "valor": 696.6,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9782.05,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 11679.39,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 828.21,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 20633.23,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 36 #99-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "212359"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_1ts3iqrdh76u",
+      "fecha_envio": "2022-09-28"
+    },
+    "fecha_pedido": "2024-02-10",
+    "fecha_actualizacion": "2025-03-22"
+  },
+  {
+    "_id": "ord_3qj25qxx8f",
+    "usuario_id": "usr_894j43ebjj",
+    "items": [
+      {
+        "producto_id": "prd_iymm9cpx49",
+        "nombre_snapshot": "Sartén antiadherente 24cm 247",
+        "precio_unitario": {
+          "valor": 439.41,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_yxq7idnhhj",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 220",
+        "precio_unitario": {
+          "valor": 318.23,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1197.05,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20832.01,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 129.5,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 21899.56,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Carrera 148 #37-61",
+      "ciudad": "Santa Marta",
+      "departamento": "Magdalena",
+      "pais": "Colombia",
+      "codigo_postal": "918123"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_btvysmne5pw1",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2025-11-09",
+    "fecha_actualizacion": "2023-03-05"
+  },
+  {
+    "_id": "ord_iecaq0oq1o",
+    "usuario_id": "usr_psp2pk8txg",
+    "items": [
+      {
+        "producto_id": "prd_xfrcvknhbs",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 533",
+        "precio_unitario": {
+          "valor": 1166.63,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_6btxmk1a1b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 215",
+        "precio_unitario": {
+          "valor": 683.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_yxq7idnhhj",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 220",
+        "precio_unitario": {
+          "valor": 318.23,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2851.14,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20400.42,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 405.07,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 22846.49,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 2 #81-11",
+      "ciudad": "Montería",
+      "departamento": "Córdoba",
+      "pais": "Colombia",
+      "codigo_postal": "840798"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_94v7lts62tfg",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-08-26",
+    "fecha_actualizacion": "2023-08-09"
+  },
+  {
+    "_id": "ord_ljitrnlyyv",
+    "usuario_id": "usr_i26xh26i00",
+    "items": [
+      {
+        "producto_id": "prd_7v7dmoudzp",
+        "nombre_snapshot": "Juguete para perro resistente 106",
+        "precio_unitario": {
+          "valor": 859.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_a49y4jixr4",
+        "nombre_snapshot": "Camiseta Selección Colombia",
+        "precio_unitario": {
+          "valor": 601.74,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_jiv918yyx8",
+        "nombre_snapshot": "Juguete para perro resistente 727",
+        "precio_unitario": {
+          "valor": 975.61,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_jilkuudxy1",
+        "nombre_snapshot": "Mouse inalámbrico 227",
+        "precio_unitario": {
+          "valor": 1526.94,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9453.8,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 2861.9,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1306.01,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 11009.69,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 88 #51-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "681440"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_jgxjwrgwgw6x",
+      "fecha_envio": "2025-03-15"
+    },
+    "fecha_pedido": "2022-03-02",
+    "fecha_actualizacion": "2023-06-17"
+  },
+  {
+    "_id": "ord_x99fs4wh5x",
+    "usuario_id": "usr_9r9wo2n9nj",
+    "items": [
+      {
+        "producto_id": "prd_a49y4jixr4",
+        "nombre_snapshot": "Camiseta Selección Colombia",
+        "precio_unitario": {
+          "valor": 601.74,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_opeleu25zm",
+        "nombre_snapshot": "Zapatillas running 110",
+        "precio_unitario": {
+          "valor": 251.61,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1104.96,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 10799.84,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 12.61,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 11892.19,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Diagonal 64 #59-31",
+      "ciudad": "Manizales",
+      "departamento": "Caldas",
+      "pais": "Colombia",
+      "codigo_postal": "528954"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_wfhnxgwz5beb",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-07-12",
+    "fecha_actualizacion": "2022-04-10"
+  },
+  {
+    "_id": "ord_xv59wfmjhc",
+    "usuario_id": "usr_2o7fxf6f62",
+    "items": [
+      {
+        "producto_id": "prd_6i5epjgo8i",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 615",
+        "precio_unitario": {
+          "valor": 1749.63,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_wax0a4wm43",
+        "nombre_snapshot": "Teclado mecánico Redragon",
+        "precio_unitario": {
+          "valor": 71.38,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_dxcewl7mga",
+        "nombre_snapshot": "Juguete para perro resistente 697",
+        "precio_unitario": {
+          "valor": 361.99,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ics36y27m9",
+        "nombre_snapshot": "Mouse inalámbrico 497",
+        "precio_unitario": {
+          "valor": 992.4,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4239.18,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 19528.06,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 272.02,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23495.22,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 29 #91-17",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "261800"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_4oyqw1k0rjme",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-02-23",
+    "fecha_actualizacion": "2023-08-27"
+  },
+  {
+    "_id": "ord_100c86bcwx",
+    "usuario_id": "usr_w4wsy2oewx",
+    "items": [
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_7v7dmoudzp",
+        "nombre_snapshot": "Juguete para perro resistente 106",
+        "precio_unitario": {
+          "valor": 859.14,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_p5y6c6wn7z",
+        "nombre_snapshot": "Zapatillas running 744",
+        "precio_unitario": {
+          "valor": 212.15,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3462.36,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 2755.75,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 376.0,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 5842.11,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 115 #28-27",
+      "ciudad": "Bogotá",
+      "departamento": "Cundinamarca",
+      "pais": "Colombia",
+      "codigo_postal": "271482"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_ecz7o7vqgdpl",
+      "fecha_envio": "2024-11-11"
+    },
+    "fecha_pedido": "2022-04-17",
+    "fecha_actualizacion": "2023-04-28"
+  },
+  {
+    "_id": "ord_82mmwjpqqk",
+    "usuario_id": "usr_1251o0m1cw",
+    "items": [
+      {
+        "producto_id": "prd_b5bktpeahh",
+        "nombre_snapshot": "Zapatillas running 539",
+        "precio_unitario": {
+          "valor": 1735.07,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ssuyajwiyk",
+        "nombre_snapshot": "Zapatillas running 543",
+        "precio_unitario": {
+          "valor": 1088.62,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3946.26,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 250.67,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 434.43,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 3762.5,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 63 #53-47",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "316559"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_3m0o5b7lnybf",
+      "fecha_envio": "2022-03-01"
+    },
+    "fecha_pedido": "2024-09-28",
+    "fecha_actualizacion": "2024-11-17"
+  },
+  {
+    "_id": "ord_9rj3etm956",
+    "usuario_id": "usr_tl5o0vjzdn",
+    "items": [
+      {
+        "producto_id": "prd_34dqmd5nvc",
+        "nombre_snapshot": "Mouse inalámbrico 307",
+        "precio_unitario": {
+          "valor": 137.9,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_t2epbbm4yg",
+        "nombre_snapshot": "Café de origen Huila 500g",
+        "precio_unitario": {
+          "valor": 40.52,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_pl89g2yy3a",
+        "nombre_snapshot": "Juguete para perro resistente 985",
+        "precio_unitario": {
+          "valor": 1332.76,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4257.74,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 12345.93,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 107.32,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 16496.35,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 45 #54-17",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "437712"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_777fi440fcbh",
+      "fecha_envio": "2025-12-19"
+    },
+    "fecha_pedido": "2023-12-10",
+    "fecha_actualizacion": "2025-12-31"
+  },
+  {
+    "_id": "ord_fpsw8oz2z5",
+    "usuario_id": "usr_q8oppr1dqp",
+    "items": [
+      {
+        "producto_id": "prd_p5y6c6wn7z",
+        "nombre_snapshot": "Zapatillas running 744",
+        "precio_unitario": {
+          "valor": 212.15,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_57bcjn1nnp",
+        "nombre_snapshot": "Mouse inalámbrico 165",
+        "precio_unitario": {
+          "valor": 548.38,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_04rmv2voqy",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 481",
+        "precio_unitario": {
+          "valor": 673.68,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2194.74,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 1300.86,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 20.27,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 3475.33,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Diagonal 128 #82-29",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "531245"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_m05ejm5rxfna",
+      "fecha_envio": "2022-12-21"
+    },
+    "fecha_pedido": "2024-10-07",
+    "fecha_actualizacion": "2024-12-13"
+  },
+  {
+    "_id": "ord_ybynd4bei3",
+    "usuario_id": "usr_d1xs6jwy91",
+    "items": [
+      {
+        "producto_id": "prd_yggj9dpzd2",
+        "nombre_snapshot": "Crema hidratante corporal 599",
+        "precio_unitario": {
+          "valor": 1508.3,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gpvrplbk1d",
+        "nombre_snapshot": "Olla a presión Imusa 6L",
+        "precio_unitario": {
+          "valor": 764.17,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6053.24,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 391.57,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 44.46,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 6400.35,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 154 #79-49",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "290626"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_74ikgofekl9b",
+      "fecha_envio": "2022-04-12"
+    },
+    "fecha_pedido": "2022-04-23",
+    "fecha_actualizacion": "2022-04-09"
+  },
+  {
+    "_id": "ord_loy3q1063x",
+    "usuario_id": "usr_za8rb01nvb",
+    "items": [
+      {
+        "producto_id": "prd_xfrcvknhbs",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 533",
+        "precio_unitario": {
+          "valor": 1166.63,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_496bn6n2p2",
+        "nombre_snapshot": "Mouse inalámbrico 970",
+        "precio_unitario": {
+          "valor": 311.6,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4434.69,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 14152.36,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 257.79,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 18329.26,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 60 #12-12",
+      "ciudad": "Pasto",
+      "departamento": "Nariño",
+      "pais": "Colombia",
+      "codigo_postal": "470805"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_yv3m97sjqybj",
+      "fecha_envio": "2022-02-18"
+    },
+    "fecha_pedido": "2024-11-06",
+    "fecha_actualizacion": "2023-07-23"
+  },
+  {
+    "_id": "ord_n4qukni9gm",
+    "usuario_id": "usr_n1t6hm66ob",
+    "items": [
+      {
+        "producto_id": "prd_09tfor415b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 669",
+        "precio_unitario": {
+          "valor": 64.14,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 64.14,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 14302.29,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 2.46,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 14363.97,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 31 #66-76",
+      "ciudad": "Pasto",
+      "departamento": "Nariño",
+      "pais": "Colombia",
+      "codigo_postal": "986224"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_4w9mhfrn5bqa",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-03-20",
+    "fecha_actualizacion": "2022-09-08"
+  },
+  {
+    "_id": "ord_4wspl51dgj",
+    "usuario_id": "usr_mbn7ujrtft",
+    "items": [
+      {
+        "producto_id": "prd_7v7dmoudzp",
+        "nombre_snapshot": "Juguete para perro resistente 106",
+        "precio_unitario": {
+          "valor": 859.14,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_esw5qy8dyp",
+        "nombre_snapshot": "Smartwatch deportivo 802",
+        "precio_unitario": {
+          "valor": 579.23,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3455.97,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 865.75,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 578.29,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 3743.43,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pendiente",
+    "direccion_envio": {
+      "linea1": "Av. 56 #44-12",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "847598"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_ox0v7ysdiut3",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-07-02",
+    "fecha_actualizacion": "2024-03-29"
+  },
+  {
+    "_id": "ord_nr304v78jk",
+    "usuario_id": "usr_9ram1pttsd",
+    "items": [
+      {
+        "producto_id": "prd_j18zdja4v9",
+        "nombre_snapshot": "Mouse inalámbrico 359",
+        "precio_unitario": {
+          "valor": 1072.89,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_qqqd5qw6lb",
+        "nombre_snapshot": "Sartén antiadherente 24cm 965",
+        "precio_unitario": {
+          "valor": 1129.95,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6626.21,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 21726.83,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 500.12,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27852.92,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Calle 75 #52-2",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "263976"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_i1tbmnyczpa8",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-11-12",
+    "fecha_actualizacion": "2023-03-24"
+  },
+  {
+    "_id": "ord_76xw0cp1lp",
+    "usuario_id": "usr_vbrqfztdrf",
+    "items": [
+      {
+        "producto_id": "prd_7vni7s9e6b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 267",
+        "precio_unitario": {
+          "valor": 1788.52,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_vhx74wabnb",
+        "nombre_snapshot": "Audífonos Xiaomi Redmi Buds",
+        "precio_unitario": {
+          "valor": 774.88,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ar0np1gqwu",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 897",
+        "precio_unitario": {
+          "valor": 615.87,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_jkbxwyfwxk",
+        "nombre_snapshot": "Libro 'Cien años de soledad'",
+        "precio_unitario": {
+          "valor": 161.23,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 8471.74,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20605.34,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 473.23,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 28603.85,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Diagonal 4 #87-35",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "581017"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_xn3vy8zervq7",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2025-07-12",
+    "fecha_actualizacion": "2025-01-13"
+  },
+  {
+    "_id": "ord_kncyhr29md",
+    "usuario_id": "usr_d1xs6jwy91",
+    "items": [
+      {
+        "producto_id": "prd_zmdchhap43",
+        "nombre_snapshot": "Zapatillas running 574",
+        "precio_unitario": {
+          "valor": 1668.66,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4484.96,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 15375.32,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 341.87,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 19518.41,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 154 #79-49",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "290626"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_m9s5xadn4h63",
+      "fecha_envio": "2023-08-24"
+    },
+    "fecha_pedido": "2024-06-02",
+    "fecha_actualizacion": "2022-12-13"
+  },
+  {
+    "_id": "ord_l9g9zggjjy",
+    "usuario_id": "usr_qi6n23jke1",
+    "items": [
+      {
+        "producto_id": "prd_ssuyajwiyk",
+        "nombre_snapshot": "Zapatillas running 543",
+        "precio_unitario": {
+          "valor": 1088.62,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_6i5epjgo8i",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 615",
+        "precio_unitario": {
+          "valor": 1749.63,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_az7thz5uu1",
+        "nombre_snapshot": "Crema hidratante corporal 975",
+        "precio_unitario": {
+          "valor": 1052.34,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_wax0a4wm43",
+        "nombre_snapshot": "Teclado mecánico Redragon",
+        "precio_unitario": {
+          "valor": 71.38,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 6209.41,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 290.0,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 783.95,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 5715.46,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 40 #82-19",
+      "ciudad": "Santa Marta",
+      "departamento": "Magdalena",
+      "pais": "Colombia",
+      "codigo_postal": "750615"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_draa25hr934j",
+      "fecha_envio": "2022-09-06"
+    },
+    "fecha_pedido": "2025-09-11",
+    "fecha_actualizacion": "2023-10-24"
+  },
+  {
+    "_id": "ord_r3248t8ojf",
+    "usuario_id": "usr_sczjpc8n0z",
+    "items": [
+      {
+        "producto_id": "prd_jkbxwyfwxk",
+        "nombre_snapshot": "Libro 'Cien años de soledad'",
+        "precio_unitario": {
+          "valor": 161.23,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_34dqmd5nvc",
+        "nombre_snapshot": "Mouse inalámbrico 307",
+        "precio_unitario": {
+          "valor": 137.9,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_jkbxwyfwxk",
+        "nombre_snapshot": "Libro 'Cien años de soledad'",
+        "precio_unitario": {
+          "valor": 161.23,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_khjxlwq440",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 259",
+        "precio_unitario": {
+          "valor": 247.52,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1231.2,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 931.17,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 156.25,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 2006.12,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Av. 12 #57-61",
+      "ciudad": "Cartagena",
+      "departamento": "Bolívar",
+      "pais": "Colombia",
+      "codigo_postal": "666564"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_asq83358ir2z",
+      "fecha_envio": "2025-01-19"
+    },
+    "fecha_pedido": "2024-04-21",
+    "fecha_actualizacion": "2022-02-01"
+  },
+  {
+    "_id": "ord_m1t6imwu6y",
+    "usuario_id": "usr_mwt3rbzcid",
+    "items": [
+      {
+        "producto_id": "prd_n4i9ue135k",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 392",
+        "precio_unitario": {
+          "valor": 1000.36,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_kthspglkwy",
+        "nombre_snapshot": "Zapatillas running 377",
+        "precio_unitario": {
+          "valor": 489.35,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1489.71,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 23408.01,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 242.15,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 24655.57,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Carrera 157 #84-54",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander",
+      "pais": "Colombia",
+      "codigo_postal": "186647"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_p4dm5p1l28dm",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-12-27",
+    "fecha_actualizacion": "2023-08-31"
+  },
+  {
+    "_id": "ord_vnvorlawhx",
+    "usuario_id": "usr_236zxdis3t",
+    "items": [
+      {
+        "producto_id": "prd_267t80iq10",
+        "nombre_snapshot": "Smartwatch deportivo 135",
+        "precio_unitario": {
+          "valor": 1210.16,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2420.32,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 8316.29,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 254.88,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 10481.73,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Diagonal 66 #8-70",
+      "ciudad": "Villavicencio",
+      "departamento": "Meta",
+      "pais": "Colombia",
+      "codigo_postal": "964138"
+    },
+    "tracking": {
+      "transportadora": "Servientrega",
+      "numero": "TRK_7lkav3fdngug",
+      "fecha_envio": "2024-02-20"
+    },
+    "fecha_pedido": "2025-02-22",
+    "fecha_actualizacion": "2022-12-31"
+  },
+  {
+    "_id": "ord_1agtgcax2l",
+    "usuario_id": "usr_z0ngb7awy7",
+    "items": [
+      {
+        "producto_id": "prd_eryhusb8tn",
+        "nombre_snapshot": "Queso costeño 1kg",
+        "precio_unitario": {
+          "valor": 232.78,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_3rwairtx6k",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 668",
+        "precio_unitario": {
+          "valor": 885.26,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_8o8w23qpge",
+        "nombre_snapshot": "Café de Sierra Nevada 340g",
+        "precio_unitario": {
+          "valor": 64.13,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_496bn6n2p2",
+        "nombre_snapshot": "Mouse inalámbrico 970",
+        "precio_unitario": {
+          "valor": 311.6,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3936.93,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 13053.59,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 422.57,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 16567.95,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Carrera 12 #89-69",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander",
+      "pais": "Colombia",
+      "codigo_postal": "475664"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_ij3os1pwqcwj",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-05-09",
+    "fecha_actualizacion": "2023-03-09"
+  },
+  {
+    "_id": "ord_g28uccfb1z",
+    "usuario_id": "usr_jaft5qiv27",
+    "items": [
+      {
+        "producto_id": "prd_5tgrh2j9h0",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 171",
+        "precio_unitario": {
+          "valor": 1674.0,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_3wolab9hcw",
+        "nombre_snapshot": "Bocadillo veleño 400g",
+        "precio_unitario": {
+          "valor": 103.95,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_k33e7rkoyi",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 622",
+        "precio_unitario": {
+          "valor": 539.12,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_yggj9dpzd2",
+        "nombre_snapshot": "Crema hidratante corporal 599",
+        "precio_unitario": {
+          "valor": 1508.3,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9428.69,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 1498.59,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 358.82,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 10568.46,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 142 #29-24",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico",
+      "pais": "Colombia",
+      "codigo_postal": "100954"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_nevb487gjrpu",
+      "fecha_envio": "2024-08-15"
+    },
+    "fecha_pedido": "2022-11-28",
+    "fecha_actualizacion": "2025-12-27"
+  },
+  {
+    "_id": "ord_9y4dszc0ua",
+    "usuario_id": "usr_kcl7jc0vf8",
+    "items": [
+      {
+        "producto_id": "prd_ng9t32a00w",
+        "nombre_snapshot": "Juguete para perro resistente 330",
+        "precio_unitario": {
+          "valor": 635.3,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_b29co0vs85",
+        "nombre_snapshot": "Ruana de lana boyacense",
+        "precio_unitario": {
+          "valor": 457.46,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1728.06,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 27650.87,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 208.16,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 29170.77,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 72 #101-61",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "676437"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_mzv9ba9wy5xy",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2022-04-24",
+    "fecha_actualizacion": "2022-12-14"
+  },
+  {
+    "_id": "ord_1pe6rtihrc",
+    "usuario_id": "usr_fssp9g6udu",
+    "items": [
+      {
+        "producto_id": "prd_5tgrh2j9h0",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 171",
+        "precio_unitario": {
+          "valor": 1674.0,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_8jwffuifo2",
+        "nombre_snapshot": "Zapatillas running 780",
+        "precio_unitario": {
+          "valor": 290.6,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4294.19,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 23027.27,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 171.51,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27149.95,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "cancelado",
+    "direccion_envio": {
+      "linea1": "Transversal 9 #29-16",
+      "ciudad": "Montería",
+      "departamento": "Córdoba",
+      "pais": "Colombia",
+      "codigo_postal": "675584"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_2xt3dru9punw",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2023-07-04",
+    "fecha_actualizacion": "2024-10-06"
+  },
+  {
+    "_id": "ord_41am5pfivx",
+    "usuario_id": "usr_qi6n23jke1",
+    "items": [
+      {
+        "producto_id": "prd_kyirye51z5",
+        "nombre_snapshot": "Crema hidratante corporal 450",
+        "precio_unitario": {
+          "valor": 1673.67,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ie9jkz2w3x",
+        "nombre_snapshot": "Smartwatch deportivo 588",
+        "precio_unitario": {
+          "valor": 1263.68,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_qqqd5qw6lb",
+        "nombre_snapshot": "Sartén antiadherente 24cm 965",
+        "precio_unitario": {
+          "valor": 1129.95,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4067.3,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 24055.54,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 385.66,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27737.18,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 40 #82-19",
+      "ciudad": "Santa Marta",
+      "departamento": "Magdalena",
+      "pais": "Colombia",
+      "codigo_postal": "750615"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_s2dm93v97uvr",
+      "fecha_envio": "2024-09-05"
+    },
+    "fecha_pedido": "2024-12-25",
+    "fecha_actualizacion": "2022-12-03"
+  },
+  {
+    "_id": "ord_nm6s29t9yb",
+    "usuario_id": "usr_kjlgj1u6cz",
+    "items": [
+      {
+        "producto_id": "prd_kthspglkwy",
+        "nombre_snapshot": "Zapatillas running 377",
+        "precio_unitario": {
+          "valor": 489.35,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1468.05,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 26657.71,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 222.76,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 27903.0,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_debito",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 25 #70-32",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "400016"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_s3l2urd7bgp9",
+      "fecha_envio": "2022-07-20"
+    },
+    "fecha_pedido": "2024-09-01",
+    "fecha_actualizacion": "2025-12-30"
+  },
+  {
+    "_id": "ord_ozqi17pwrw",
+    "usuario_id": "usr_g3f6yplfj2",
+    "items": [
+      {
+        "producto_id": "prd_u8f32xpuai",
+        "nombre_snapshot": "Hamaca San Jacinto",
+        "precio_unitario": {
+          "valor": 591.11,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3740.1,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 3795.6,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 661.61,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 6874.09,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 6 #2-59",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "244261"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_nviwbpx3ucue",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-05-15",
+    "fecha_actualizacion": "2023-04-30"
+  },
+  {
+    "_id": "ord_3bv7no0hr9",
+    "usuario_id": "usr_glx9h462ky",
+    "items": [
+      {
+        "producto_id": "prd_dcr3v1t8hg",
+        "nombre_snapshot": "Arepa boyacense x10",
+        "precio_unitario": {
+          "valor": 281.89,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_tmf1chra4h",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 473",
+        "precio_unitario": {
+          "valor": 652.91,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_a49y4jixr4",
+        "nombre_snapshot": "Camiseta Selección Colombia",
+        "precio_unitario": {
+          "valor": 601.74,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 2471.34,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 20711.47,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 45.51,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23137.3,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Calle 32 #6-17",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "360883"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_rkq5wsyj7wzw",
+      "fecha_envio": "2024-07-07"
+    },
+    "fecha_pedido": "2023-03-15",
+    "fecha_actualizacion": "2024-07-05"
+  },
+  {
+    "_id": "ord_80n55ku385",
+    "usuario_id": "usr_d2tdstem6w",
+    "items": [
+      {
+        "producto_id": "prd_har6qdyals",
+        "nombre_snapshot": "Zapatillas running 827",
+        "precio_unitario": {
+          "valor": 1580.53,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_9wlwu3f64u",
+        "nombre_snapshot": "Zapatillas running 557",
+        "precio_unitario": {
+          "valor": 1196.64,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_267t80iq10",
+        "nombre_snapshot": "Smartwatch deportivo 135",
+        "precio_unitario": {
+          "valor": 1210.16,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_j5xkhl3i61",
+        "nombre_snapshot": "Zapatillas running 689",
+        "precio_unitario": {
+          "valor": 457.8,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 10026.51,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 12313.32,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 944.09,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 21395.74,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Calle 70 #45-49",
+      "ciudad": "Bogotá",
+      "departamento": "Cundinamarca",
+      "pais": "Colombia",
+      "codigo_postal": "520097"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_x6hgo3rhfxaq",
+      "fecha_envio": "2024-03-03"
+    },
+    "fecha_pedido": "2024-01-05",
+    "fecha_actualizacion": "2024-08-25"
+  },
+  {
+    "_id": "ord_1gr7mc2aj2",
+    "usuario_id": "usr_d9qsfitggb",
+    "items": [
+      {
+        "producto_id": "prd_6i5epjgo8i",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 615",
+        "precio_unitario": {
+          "valor": 1749.63,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gi7ztccc9h",
+        "nombre_snapshot": "Zapatillas running 653",
+        "precio_unitario": {
+          "valor": 24.16,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_o5fx45ihau",
+        "nombre_snapshot": "Chocolatina Jet caja surtida",
+        "precio_unitario": {
+          "valor": 33.95,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_b5bktpeahh",
+        "nombre_snapshot": "Zapatillas running 539",
+        "precio_unitario": {
+          "valor": 1735.07,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 10594.48,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 7655.49,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1395.47,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 16854.5,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 51 #89-48",
+      "ciudad": "Manizales",
+      "departamento": "Caldas",
+      "pais": "Colombia",
+      "codigo_postal": "244322"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_eascg5pbaskd",
+      "fecha_envio": "2023-06-05"
+    },
+    "fecha_pedido": "2022-04-28",
+    "fecha_actualizacion": "2023-07-21"
+  },
+  {
+    "_id": "ord_o2h7ndlzp5",
+    "usuario_id": "usr_i26xh26i00",
+    "items": [
+      {
+        "producto_id": "prd_0jmtnfg0di",
+        "nombre_snapshot": "Juguete para perro resistente 585",
+        "precio_unitario": {
+          "valor": 1746.62,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_ui5xjcucvo",
+        "nombre_snapshot": "Mouse inalámbrico 464",
+        "precio_unitario": {
+          "valor": 32.52,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_az7thz5uu1",
+        "nombre_snapshot": "Crema hidratante corporal 975",
+        "precio_unitario": {
+          "valor": 1052.34,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_zmdchhap43",
+        "nombre_snapshot": "Zapatillas running 574",
+        "precio_unitario": {
+          "valor": 1668.66,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 10708.22,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 737.87,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 425.95,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 11020.14,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "daviplata",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 88 #51-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "681440"
+    },
+    "tracking": {
+      "transportadora": "4-72",
+      "numero": "TRK_kn3d99agih6q",
+      "fecha_envio": "2024-10-08"
+    },
+    "fecha_pedido": "2025-06-16",
+    "fecha_actualizacion": "2024-04-21"
+  },
+  {
+    "_id": "ord_8wrj7pij1b",
+    "usuario_id": "usr_tfe3maqnjx",
+    "items": [
+      {
+        "producto_id": "prd_wz8gu3jt0s",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 725",
+        "precio_unitario": {
+          "valor": 201.96,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_6i5epjgo8i",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 615",
+        "precio_unitario": {
+          "valor": 1749.63,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_ssuyajwiyk",
+        "nombre_snapshot": "Zapatillas running 543",
+        "precio_unitario": {
+          "valor": 1088.62,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_5tgrh2j9h0",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 171",
+        "precio_unitario": {
+          "valor": 1674.0,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 8137.84,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 10997.61,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 1189.16,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 17946.29,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 123 #106-10",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "396046"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_k3m4ckpdnap9",
+      "fecha_envio": "2025-10-16"
+    },
+    "fecha_pedido": "2023-01-05",
+    "fecha_actualizacion": "2024-09-22"
+  },
+  {
+    "_id": "ord_e46ky6tpyp",
+    "usuario_id": "usr_sczjpc8n0z",
+    "items": [
+      {
+        "producto_id": "prd_6prnfapofx",
+        "nombre_snapshot": "Chorizo santarrosano 500g",
+        "precio_unitario": {
+          "valor": 172.4,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_09tfor415b",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 669",
+        "precio_unitario": {
+          "valor": 64.14,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_jn6fqnh4hz",
+        "nombre_snapshot": "Sombrero vueltiao auténtico",
+        "precio_unitario": {
+          "valor": 400.88,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1210.7,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 19247.48,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 192.49,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 20265.69,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Av. 12 #57-61",
+      "ciudad": "Cartagena",
+      "departamento": "Bolívar",
+      "pais": "Colombia",
+      "codigo_postal": "666564"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_2cc7bq0fh17i",
+      "fecha_envio": "2022-12-27"
+    },
+    "fecha_pedido": "2022-10-01",
+    "fecha_actualizacion": "2023-01-25"
+  },
+  {
+    "_id": "ord_xmx2rf1wxe",
+    "usuario_id": "usr_mbn7ujrtft",
+    "items": [
+      {
+        "producto_id": "prd_ie9jkz2w3x",
+        "nombre_snapshot": "Smartwatch deportivo 588",
+        "precio_unitario": {
+          "valor": 1263.68,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_dxcewl7mga",
+        "nombre_snapshot": "Juguete para perro resistente 697",
+        "precio_unitario": {
+          "valor": 361.99,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_ynko3yagf1",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 331",
+        "precio_unitario": {
+          "valor": 292.15,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_gi7ztccc9h",
+        "nombre_snapshot": "Zapatillas running 653",
+        "precio_unitario": {
+          "valor": 24.16,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_axddpc7zoh",
+        "nombre_snapshot": "Crema hidratante corporal 556",
+        "precio_unitario": {
+          "valor": 1675.42,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 4949.84,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 4916.83,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 45.11,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 9821.56,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Av. 56 #44-12",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca",
+      "pais": "Colombia",
+      "codigo_postal": "847598"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_y8eukbybvk3p",
+      "fecha_envio": "2024-10-23"
+    },
+    "fecha_pedido": "2025-05-09",
+    "fecha_actualizacion": "2022-01-29"
+  },
+  {
+    "_id": "ord_hdv77ztbjs",
+    "usuario_id": "usr_m7ytv6rjbl",
+    "items": [
+      {
+        "producto_id": "prd_pl89g2yy3a",
+        "nombre_snapshot": "Juguete para perro resistente 985",
+        "precio_unitario": {
+          "valor": 1332.76,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_o6o0ges3ub",
+        "nombre_snapshot": "Sartén antiadherente 24cm 279",
+        "precio_unitario": {
+          "valor": 800.7,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_gnvjxo5x0b",
+        "nombre_snapshot": "Sartén antiadherente 24cm 334",
+        "precio_unitario": {
+          "valor": 1402.86,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_04rmv2voqy",
+        "nombre_snapshot": "Portátil 14'' i5 16GB 481",
+        "precio_unitario": {
+          "valor": 673.68,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 9093.68,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 2894.14,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 559.59,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 11428.23,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "nequi",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Calle 75 #80-34",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "491912"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_3sutgwqxdv0w",
+      "fecha_envio": "2025-10-11"
+    },
+    "fecha_pedido": "2024-07-06",
+    "fecha_actualizacion": "2022-08-08"
+  },
+  {
+    "_id": "ord_3b7spzynkx",
+    "usuario_id": "usr_tkypbqgcj8",
+    "items": [
+      {
+        "producto_id": "prd_9nx1h4v4af",
+        "nombre_snapshot": "Mouse inalámbrico 671",
+        "precio_unitario": {
+          "valor": 655.59,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_b4f3lb0fy7",
+        "nombre_snapshot": "Zapatillas running 175",
+        "precio_unitario": {
+          "valor": 636.45,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_k33e7rkoyi",
+        "nombre_snapshot": "Rompecabezas 1000 piezas 622",
+        "precio_unitario": {
+          "valor": 539.12,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 3564.99,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 3948.21,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 574.72,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 6938.48,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Transversal 36 #99-5",
+      "ciudad": "Armenia",
+      "departamento": "Quindío",
+      "pais": "Colombia",
+      "codigo_postal": "212359"
+    },
+    "tracking": {
+      "transportadora": "Deprisa",
+      "numero": "TRK_0r0lnamj1ao8",
+      "fecha_envio": "2025-09-03"
+    },
+    "fecha_pedido": "2025-06-30",
+    "fecha_actualizacion": "2024-03-25"
+  },
+  {
+    "_id": "ord_1w13o2fc3h",
+    "usuario_id": "usr_2e4vuzunhv",
+    "items": [
+      {
+        "producto_id": "prd_9hb6shfz0t",
+        "nombre_snapshot": "Juguete para perro resistente 655",
+        "precio_unitario": {
+          "valor": 1059.54,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      },
+      {
+        "producto_id": "prd_496bn6n2p2",
+        "nombre_snapshot": "Mouse inalámbrico 970",
+        "precio_unitario": {
+          "valor": 311.6,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_axddpc7zoh",
+        "nombre_snapshot": "Crema hidratante corporal 556",
+        "precio_unitario": {
+          "valor": 1675.42,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      },
+      {
+        "producto_id": "prd_p5y6c6wn7z",
+        "nombre_snapshot": "Zapatillas running 744",
+        "precio_unitario": {
+          "valor": 212.15,
+          "moneda": "COP"
+        },
+        "cantidad": 2
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 5769.48,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 25459.48,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 978.98,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 30249.98,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "pse",
+    "estado": "enviado",
+    "direccion_envio": {
+      "linea1": "Calle 89 #40-76",
+      "ciudad": "Neiva",
+      "departamento": "Huila",
+      "pais": "Colombia",
+      "codigo_postal": "984299"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_bufgt91aceub",
+      "fecha_envio": "2025-12-10"
+    },
+    "fecha_pedido": "2023-09-21",
+    "fecha_actualizacion": "2024-05-27"
+  },
+  {
+    "_id": "ord_xq9299bly2",
+    "usuario_id": "usr_8cq8kmknps",
+    "items": [
+      {
+        "producto_id": "prd_wa8kclcl3d",
+        "nombre_snapshot": "Juguete para perro resistente 695",
+        "precio_unitario": {
+          "valor": 1337.41,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      },
+      {
+        "producto_id": "prd_yo84yo3nv6",
+        "nombre_snapshot": "Smartwatch deportivo 962",
+        "precio_unitario": {
+          "valor": 1147.64,
+          "moneda": "COP"
+        },
+        "cantidad": 3
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 7455.15,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 16286.13,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 531.24,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 23210.04,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "contra_entrega",
+    "estado": "entregado",
+    "direccion_envio": {
+      "linea1": "Carrera 1 #61-7",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "942292"
+    },
+    "tracking": {
+      "transportadora": "Interrapidísimo",
+      "numero": "TRK_2vm4fcujqm5w",
+      "fecha_envio": "2023-04-04"
+    },
+    "fecha_pedido": "2025-12-18",
+    "fecha_actualizacion": "2023-06-21"
+  },
+  {
+    "_id": "ord_6zvfipi2gw",
+    "usuario_id": "usr_26xnposyxr",
+    "items": [
+      {
+        "producto_id": "prd_zmdchhap43",
+        "nombre_snapshot": "Zapatillas running 574",
+        "precio_unitario": {
+          "valor": 1668.66,
+          "moneda": "COP"
+        },
+        "cantidad": 1
+      }
+    ],
+    "resumen": {
+      "subtotal": {
+        "valor": 1668.66,
+        "moneda": "COP"
+      },
+      "envio": {
+        "valor": 26857.84,
+        "moneda": "COP"
+      },
+      "descuento": {
+        "valor": 288.81,
+        "moneda": "COP"
+      },
+      "total": {
+        "valor": 28237.69,
+        "moneda": "COP"
+      }
+    },
+    "metodo_pago": "tarjeta_credito",
+    "estado": "pagado",
+    "direccion_envio": {
+      "linea1": "Transversal 81 #40-32",
+      "ciudad": "Pereira",
+      "departamento": "Risaralda",
+      "pais": "Colombia",
+      "codigo_postal": "469716"
+    },
+    "tracking": {
+      "transportadora": "Coordinadora",
+      "numero": "TRK_2gbd5xrxpcj6",
+      "fecha_envio": null
+    },
+    "fecha_pedido": "2024-06-14",
+    "fecha_actualizacion": "2022-07-30"
+  }
+]
